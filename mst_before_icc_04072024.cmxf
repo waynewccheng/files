@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cc:CxF xmlns:cc="http://colorexchangeformat.com/CxF3-core" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cc:FileInformation>
+		<cc:Creator>X-Rite - Prism</cc:Creator>
+		<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+		<cc:Description>Prism CXF3 file</cc:Description>
+		<cc:Tag Name="PrismAppName" Value="i1Profiler"/>
+		<cc:Tag Name="PrismAppVersion" Value="1.1.0"/>
+	</cc:FileInformation>
+	<cc:Resources>
+		<cc:ObjectCollection>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement1" Id="c1">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.007202 0.008622 0.010943 0.011687 0.010728 0.009517 0.00725 0.005633 0.005284 0.006851 0.009704 0.012922 0.014005 0.012654 0.010737 0.009098 0.007724 0.007379 0.009334 0.013936 0.017523 0.017481 0.015925 0.01453 0.013246 0.01125 0.008848 0.007015 0.006767 0.008264 0.011761 0.018455 0.029186 0.044842 0.067744 0.099025</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement2" Id="c2">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.079379 0.134296 0.192181 0.252332 0.281876 0.274512 0.249881 0.230037 0.231971 0.261595 0.310482 0.365519 0.409798 0.433497 0.44481 0.449637 0.448616 0.454973 0.483463 0.534309 0.574873 0.59625 0.609406 0.617699 0.61773 0.606315 0.590068 0.577686 0.579041 0.594475 0.619853 0.648621 0.680806 0.711363 0.740158 0.771041</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement3" Id="c3">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.013796 0.018845 0.021894 0.024856 0.023576 0.020594 0.016477 0.013005 0.013023 0.016725 0.023377 0.030422 0.033526 0.031269 0.02763 0.024629 0.021783 0.021119 0.025672 0.035509 0.042933 0.042994 0.040023 0.037602 0.035107 0.030921 0.025491 0.02121 0.020596 0.024334 0.032748 0.046673 0.066054 0.091715 0.125512 0.167504</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement4" Id="c4">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.097503 0.171247 0.265515 0.37789 0.450158 0.456392 0.429496 0.404251 0.404335 0.435091 0.485644 0.540556 0.583549 0.605978 0.61732 0.622323 0.623283 0.631028 0.657304 0.70384 0.740547 0.763198 0.779671 0.790397 0.793451 0.788321 0.780844 0.774752 0.775852 0.782961 0.795029 0.807158 0.822729 0.836939 0.849135 0.864575</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement5" Id="c5">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.018188 0.025894 0.031182 0.035366 0.034083 0.028261 0.022069 0.017435 0.01708 0.021535 0.029954 0.039143 0.043437 0.041584 0.038342 0.035855 0.033275 0.03393 0.04309 0.062416 0.081439 0.091232 0.095559 0.097959 0.096865 0.089893 0.079116 0.070256 0.068893 0.076757 0.093885 0.119166 0.151401 0.189071 0.234104 0.28646</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement6" Id="c6">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.103516 0.185714 0.297075 0.437201 0.536314 0.554912 0.530262 0.50479 0.504792 0.536714 0.589965 0.649185 0.698224 0.729769 0.74862 0.7583 0.76351 0.773218 0.793291 0.827255 0.853279 0.871436 0.885683 0.895145 0.899218 0.899305 0.899831 0.899261 0.899068 0.897223 0.896293 0.894595 0.898282 0.900935 0.902177 0.908763</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement7" Id="c7">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.029977 0.040361 0.048863 0.055605 0.053692 0.046388 0.036991 0.030424 0.030718 0.039743 0.05658 0.076229 0.089918 0.093249 0.092138 0.090136 0.086323 0.087486 0.102352 0.131399 0.156707 0.167408 0.170662 0.171949 0.169324 0.159196 0.144318 0.13236 0.130955 0.142676 0.16585 0.198257 0.236904 0.280184 0.329023 0.384213</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement8" Id="c8">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.110836 0.198699 0.324475 0.498513 0.635905 0.674783 0.65486 0.62723 0.620865 0.640666 0.675488 0.713404 0.740235 0.751824 0.756427 0.75752 0.75743 0.763828 0.78278 0.816447 0.841878 0.859024 0.872169 0.880805 0.883938 0.882649 0.881692 0.879988 0.879848 0.879356 0.880604 0.880673 0.886011 0.890501 0.893017 0.900499</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement9" Id="c9">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.040982 0.062383 0.080704 0.094869 0.095296 0.085842 0.072334 0.062556 0.064165 0.08062 0.109733 0.144379 0.172375 0.185451 0.189648 0.189519 0.185431 0.187089 0.206344 0.242261 0.269551 0.277532 0.277263 0.276176 0.271216 0.257801 0.239687 0.22546 0.224859 0.239762 0.267825 0.304794 0.347531 0.393059 0.442202 0.496455</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M0_Measurement" Name="M0_Measurement10" Id="c10">
+				<cc:CreationDate>2024-04-22T19:55:39Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M0_Measurement_spec">0.111988 0.203178 0.338554 0.528128 0.683925 0.734457 0.720059 0.694049 0.688008 0.707521 0.741978 0.780338 0.809895 0.825911 0.834528 0.837011 0.837533 0.841542 0.850438 0.869094 0.880603 0.886668 0.890123 0.892309 0.893035 0.89098 0.890269 0.888898 0.888933 0.887958 0.888185 0.887728 0.892409 0.896604 0.89889 0.905799</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+		</cc:ObjectCollection>
+		<cc:ColorSpecificationCollection>
+			<cc:ColorSpecification Id="M0_Measurement_spec">
+				<cc:MeasurementSpec>
+					<cc:MeasurementType>Spectrum_Reflectance</cc:MeasurementType>
+					<cc:GeometryChoice>
+						<cc:SingleAngle>
+							<cc:SingleAngleConfiguration>Uniplanar</cc:SingleAngleConfiguration>
+							<cc:IlluminationAngle>0.0</cc:IlluminationAngle>
+							<cc:MeasurementAngle>45</cc:MeasurementAngle>
+						</cc:SingleAngle>
+					</cc:GeometryChoice>
+					<cc:WavelengthRange StartWL="380" Increment="10"/>
+					<cc:CalibrationStandard>XRGA</cc:CalibrationStandard>
+					<cc:Device>
+						<cc:DeviceFilter>Filter_None</cc:DeviceFilter>
+						<cc:DeviceIllumination>M0_Incandescent</cc:DeviceIllumination>
+					</cc:Device>
+				</cc:MeasurementSpec>
+			</cc:ColorSpecification>
+		</cc:ColorSpecificationCollection>
+	</cc:Resources>
+	<cc:CustomResources>
+		<xrp:Prism xmlns:xrp="http://www.xrite.com/products/prism" release="2.0">
+  <xrp:CustomAttributes MeasurementDevice="i1iO" NumberPatchColumns="5" NumberPatchPages="1" NumberPatchRows="2"/>
+</xrp:Prism>
+
+	</cc:CustomResources>
+</cc:CxF>
