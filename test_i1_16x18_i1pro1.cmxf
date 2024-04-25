@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cc:CxF xmlns:cc="http://colorexchangeformat.com/CxF3-core" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cc:FileInformation>
+		<cc:Creator>X-Rite - Prism</cc:Creator>
+		<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+		<cc:Description>Prism CXF3 file</cc:Description>
+		<cc:Tag Name="PrismAppName" Value="i1Profiler"/>
+		<cc:Tag Name="PrismAppVersion" Value="1.1.0"/>
+	</cc:FileInformation>
+	<cc:Resources>
+		<cc:ObjectCollection>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement1" Id="c1">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">-0.009346 0.017076 0.020305 0.024524 0.021608 0.018339 0.014801 0.01168 0.011582 0.014814 0.020568 0.025842 0.026577 0.022595 0.018396 0.015546 0.013206 0.012633 0.016074 0.024569 0.032147 0.033004 0.030712 0.028631 0.026427 0.022423 0.017396 0.014008 0.013371 0.0163 0.024051 0.037469 0.058502 0.090667 0.132625 0.199569</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement2" Id="c2">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.450624 0.363422 0.427087 0.590302 0.731134 0.855606 0.984298 1.072111 1.064467 0.979255 0.862274 0.745492 0.627443 0.518425 0.441702 0.388805 0.342599 0.309262 0.297857 0.299301 0.280194 0.238589 0.201303 0.178597 0.164304 0.146601 0.125926 0.112114 0.112746 0.130518 0.164314 0.211359 0.268729 0.339848 0.417349 0.522311</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement3" Id="c3">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.304719 0.21116 0.188856 0.184229 0.155763 0.124985 0.094519 0.07111 0.061796 0.06254 0.065058 0.063259 0.054455 0.042283 0.036031 0.034581 0.033924 0.037565 0.058111 0.117688 0.226181 0.393021 0.657175 1.018957 1.356249 1.579738 1.699156 1.753035 1.782153 1.801866 1.808971 1.822541 1.839937 1.852799 1.867459 1.87457</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement4" Id="c4">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.348297 0.253134 0.24489 0.239431 0.214696 0.182259 0.150902 0.12991 0.132907 0.162446 0.210038 0.261518 0.297975 0.307389 0.31012 0.316438 0.319873 0.337681 0.406459 0.55357 0.745584 0.964147 1.228449 1.498883 1.688514 1.78727 1.836701 1.859213 1.870661 1.877807 1.872849 1.875966 1.88448 1.888115 1.895227 1.893366</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement5" Id="c5">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.206722 0.170508 0.163596 0.155365 0.131408 0.104724 0.080997 0.064695 0.063583 0.077242 0.099183 0.120727 0.130483 0.12494 0.120028 0.120729 0.121154 0.130684 0.174458 0.280265 0.439642 0.647093 0.933172 1.274323 1.552143 1.716614 1.802302 1.8422 1.863223 1.874797 1.872401 1.877174 1.886461 1.89079 1.898633 1.898381</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement6" Id="c6">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.055872 0.04843 0.036147 0.029129 0.021932 0.016124 0.011785 0.009307 0.009758 0.014169 0.024467 0.039272 0.052518 0.057513 0.057927 0.057863 0.056327 0.059072 0.078028 0.121993 0.174137 0.21313 0.24186 0.262564 0.268578 0.255121 0.229335 0.208111 0.204834 0.225656 0.268229 0.327654 0.39937 0.485287 0.575683 0.692351</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement7" Id="c7">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.265314 0.304542 0.36475 0.420122 0.406211 0.364079 0.315523 0.276682 0.268663 0.289858 0.320598 0.343735 0.343254 0.320317 0.304271 0.30077 0.298696 0.313949 0.381398 0.52757 0.719209 0.939411 1.209684 1.488403 1.684407 1.786571 1.837269 1.860508 1.872167 1.878948 1.872979 1.874741 1.882102 1.885094 1.891532 1.889697</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement8" Id="c8">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.374969 0.381732 0.489059 0.633196 0.654984 0.60063 0.514115 0.418785 0.339661 0.277303 0.220818 0.171604 0.125956 0.08955 0.072612 0.067818 0.065334 0.070984 0.103564 0.188752 0.326764 0.519984 0.80578 1.169276 1.482271 1.67662 1.780097 1.829292 1.855121 1.869343 1.867884 1.872644 1.881848 1.886433 1.894338 1.89425</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement9" Id="c9">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.034777 0.053283 0.089197 0.109872 0.107845 0.100253 0.089111 0.078889 0.080139 0.096848 0.121418 0.142237 0.147337 0.134144 0.118161 0.105496 0.09334 0.087406 0.095633 0.115943 0.126639 0.117551 0.103699 0.093976 0.086545 0.075786 0.062397 0.052899 0.0519 0.06189 0.082834 0.114965 0.157808 0.214817 0.280698 0.374223</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement10" Id="c10">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.078968 0.111641 0.131635 0.150544 0.157269 0.154368 0.146152 0.137412 0.142361 0.167029 0.201377 0.230022 0.236821 0.218295 0.194198 0.173179 0.151889 0.137308 0.137935 0.148773 0.145608 0.123593 0.101493 0.087642 0.078754 0.068107 0.055611 0.047079 0.046332 0.05569 0.075635 0.105925 0.146628 0.201199 0.264407 0.356362</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement11" Id="c11">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.425503 0.292776 0.340745 0.460448 0.578737 0.694325 0.822516 0.916152 0.913415 0.829147 0.713223 0.599624 0.487898 0.387058 0.316965 0.26943 0.229167 0.200158 0.188953 0.18765 0.170709 0.137516 0.108872 0.092188 0.082355 0.071142 0.058387 0.050145 0.050248 0.060514 0.081752 0.113173 0.154855 0.20975 0.273532 0.365305</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement12" Id="c12">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.270404 0.291412 0.38534 0.541913 0.641641 0.681538 0.676429 0.612487 0.508464 0.399158 0.300412 0.221127 0.154988 0.106059 0.080662 0.069286 0.061887 0.062623 0.082178 0.127042 0.17638 0.209706 0.233195 0.249764 0.253171 0.238584 0.213423 0.194204 0.193359 0.215946 0.259032 0.317711 0.387595 0.470837 0.558862 0.672829</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement13" Id="c13">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.386916 0.34288 0.428736 0.583549 0.691357 0.745159 0.758207 0.709247 0.6102 0.497417 0.390922 0.302084 0.224296 0.162896 0.128916 0.112239 0.100811 0.10019 0.122535 0.171038 0.217352 0.240628 0.252192 0.259016 0.257282 0.240368 0.214425 0.195473 0.195066 0.218164 0.261588 0.320437 0.390328 0.473313 0.561196 0.674841</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement14" Id="c14">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.243431 0.231567 0.294539 0.371514 0.397263 0.388931 0.360384 0.319609 0.284988 0.259979 0.232446 0.199372 0.158665 0.119424 0.096517 0.085637 0.078096 0.079288 0.101688 0.151913 0.206966 0.244417 0.271025 0.289865 0.294121 0.278728 0.251352 0.230541 0.229467 0.253905 0.300064 0.362508 0.43625 0.52311 0.613899 0.729901</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement15" Id="c15">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.44239 0.44745 0.582646 0.827384 0.980996 1.035203 1.020391 0.926648 0.780046 0.629289 0.495986 0.390469 0.299835 0.228398 0.189735 0.172239 0.160853 0.164105 0.201476 0.281727 0.369339 0.43608 0.490927 0.53184 0.546155 0.528869 0.494553 0.468611 0.470221 0.50544 0.56526 0.642013 0.727528 0.822085 0.916921 1.030567</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement16" Id="c16">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.159454 0.173707 0.217711 0.309821 0.402332 0.494093 0.586017 0.631748 0.592223 0.496458 0.388672 0.294827 0.212704 0.14747 0.107887 0.085228 0.068649 0.059459 0.060822 0.068909 0.068669 0.056692 0.044536 0.037285 0.032837 0.027669 0.021654 0.017912 0.017619 0.022012 0.031946 0.048307 0.072797 0.108811 0.154377 0.22558</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement17" Id="c17">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.349384 0.227859 0.225651 0.232502 0.216354 0.19471 0.174378 0.163045 0.18026 0.239769 0.347363 0.501759 0.694458 0.885942 1.028774 1.097569 1.093412 1.037571 0.961355 0.886609 0.79182 0.687153 0.605458 0.55544 0.525441 0.49031 0.450371 0.423266 0.424309 0.458719 0.517747 0.593274 0.677811 0.772023 0.867209 0.983347</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement18" Id="c18">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.212479 0.110625 0.077032 0.060686 0.041836 0.029237 0.020476 0.016106 0.016364 0.022657 0.035462 0.0527 0.066737 0.071079 0.072301 0.075714 0.077437 0.08496 0.118578 0.204171 0.340745 0.524015 0.779896 1.090047 1.343181 1.483458 1.540208 1.556118 1.568643 1.592175 1.617333 1.653688 1.693046 1.727977 1.761161 1.788815</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement19" Id="c19">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.22122 0.164574 0.12486 0.106123 0.084304 0.068047 0.05544 0.049931 0.058784 0.091859 0.16239 0.283627 0.467248 0.697056 0.930485 1.125457 1.264881 1.35059 1.396786 1.424331 1.408261 1.358885 1.308156 1.270622 1.245867 1.211863 1.171704 1.142577 1.142375 1.177696 1.231199 1.298911 1.370359 1.440751 1.506256 1.572882</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement20" Id="c20">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.380277 0.390742 0.501381 0.676436 0.80252 0.890437 0.974535 1.051821 1.12404 1.204211 1.282469 1.334617 1.334609 1.273844 1.184477 1.079918 0.958254 0.832948 0.72263 0.632523 0.536194 0.438702 0.366709 0.325453 0.301318 0.274124 0.243506 0.223566 0.225912 0.253558 0.301661 0.364149 0.436317 0.520203 0.608187 0.721259</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement21" Id="c21">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.512454 0.425718 0.484197 0.668074 0.824799 0.963467 1.117576 1.249118 1.294754 1.254457 1.165371 1.058553 0.935308 0.808869 0.710681 0.633969 0.560781 0.497644 0.455089 0.425734 0.377108 0.312004 0.259737 0.228938 0.21052 0.189151 0.164419 0.148177 0.149551 0.171317 0.211112 0.26429 0.327855 0.404331 0.486719 0.595926</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement22" Id="c22">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.348089 0.562911 0.848467 1.24372 1.448909 1.485201 1.470542 1.454716 1.470029 1.527491 1.606477 1.685576 1.747824 1.785492 1.811081 1.827641 1.837367 1.842476 1.842158 1.854703 1.855628 1.853045 1.852555 1.851001 1.853368 1.852916 1.855048 1.856637 1.858371 1.862253 1.856865 1.860716 1.870666 1.876328 1.885244 1.88749</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement23" Id="c23">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.022292 0.019546 0.035089 0.038657 0.035065 0.030172 0.024554 0.020156 0.02136 0.029223 0.04337 0.059126 0.067826 0.064497 0.057629 0.051459 0.045075 0.042515 0.049204 0.065222 0.076157 0.07273 0.064458 0.058314 0.053477 0.046031 0.036694 0.030165 0.029177 0.035288 0.049467 0.072501 0.105426 0.151874 0.207531 0.290113</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement24" Id="c24">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.368583 0.483558 0.68734 0.982936 1.151424 1.216256 1.249157 1.273564 1.310531 1.375243 1.451521 1.516141 1.545612 1.531437 1.495421 1.443259 1.371682 1.290572 1.21319 1.148451 1.062591 0.964359 0.887487 0.840566 0.810937 0.772466 0.728556 0.700684 0.706346 0.749207 0.814249 0.893344 0.977706 1.066677 1.154224 1.254602</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement25" Id="c25">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.328464 0.507123 0.774466 1.141197 1.305413 1.306143 1.246192 1.166873 1.098999 1.047219 0.993722 0.935948 0.862349 0.783322 0.736901 0.71931 0.709751 0.727444 0.810713 0.976636 1.162284 1.344423 1.535959 1.698874 1.794768 1.835936 1.855267 1.863466 1.867433 1.871439 1.865275 1.868566 1.877508 1.881856 1.890072 1.889962</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement26" Id="c26">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.202763 0.302641 0.374619 0.429703 0.422509 0.385531 0.342722 0.313925 0.324088 0.378879 0.463713 0.557931 0.634587 0.672338 0.692564 0.710006 0.7198 0.746198 0.830869 0.994978 1.177833 1.355371 1.5403 1.698078 1.792617 1.833955 1.853781 1.8621 1.866006 1.870113 1.863908 1.866992 1.876122 1.880724 1.889074 1.88971</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement27" Id="c27">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.050167 0.036634 0.046743 0.036342 0.028204 0.021542 0.017195 0.015607 0.019289 0.033857 0.072227 0.154703 0.304953 0.524337 0.780484 1.031752 1.254998 1.437682 1.576756 1.687646 1.750968 1.779874 1.791286 1.793108 1.79605 1.793558 1.791628 1.789347 1.790504 1.798138 1.800275 1.812741 1.830135 1.843053 1.859021 1.868001</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement28" Id="c28">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.327829 0.352617 0.453535 0.579687 0.630398 0.635638 0.628732 0.627618 0.664236 0.757031 0.893157 1.044757 1.178129 1.255595 1.27309 1.239338 1.162941 1.063415 0.964585 0.879361 0.779789 0.674286 0.594182 0.546356 0.517191 0.482383 0.442597 0.416716 0.419943 0.456082 0.515859 0.590681 0.673848 0.766368 0.859725 0.973897</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement29" Id="c29">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.433288 0.472582 0.630616 0.885269 1.057614 1.155906 1.238041 1.307525 1.367894 1.433224 1.495626 1.536456 1.534114 1.482835 1.409546 1.322126 1.215295 1.09958 0.99234 0.902536 0.800239 0.693333 0.61306 0.565611 0.536972 0.50191 0.462072 0.436827 0.441187 0.478885 0.539461 0.615148 0.698749 0.790969 0.884099 0.997227</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement30" Id="c30">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.345875 0.448439 0.595408 0.852852 1.053914 1.20872 1.371543 1.522618 1.612707 1.639527 1.621026 1.570241 1.481206 1.362973 1.249449 1.141015 1.024197 0.907555 0.806569 0.724099 0.630256 0.531317 0.457264 0.41395 0.388092 0.357592 0.322584 0.300276 0.30348 0.335789 0.389933 0.45868 0.53652 0.625194 0.716508 0.832107</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement31" Id="c31">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.167992 0.312005 0.41023 0.525125 0.563088 0.560403 0.546413 0.540292 0.57341 0.664539 0.802426 0.963217 1.114781 1.215207 1.253137 1.234172 1.167827 1.074187 0.978107 0.893742 0.794575 0.689027 0.608725 0.56057 0.531544 0.496719 0.456912 0.430875 0.433899 0.470142 0.530066 0.605544 0.689012 0.781741 0.875226 0.988862</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement32" Id="c32">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.106203 0.075179 0.056639 0.042956 0.029891 0.021643 0.015258 0.011275 0.011644 0.017599 0.029935 0.047614 0.063626 0.070363 0.07286 0.075836 0.076791 0.083411 0.11367 0.186971 0.292099 0.408524 0.538004 0.661825 0.735796 0.74805 0.722425 0.694123 0.690667 0.724433 0.78483 0.865056 0.954639 1.050336 1.143505 1.249498</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement33" Id="c33">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.460056 0.516415 0.737739 1.081749 1.260687 1.257215 1.155232 0.988738 0.806103 0.642133 0.504873 0.399724 0.310609 0.240734 0.205582 0.193432 0.186839 0.196317 0.250392 0.373064 0.539078 0.732446 0.971419 1.216909 1.38191 1.450115 1.463263 1.459783 1.467744 1.49633 1.531176 1.576606 1.624208 1.667 1.707804 1.743428</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement34" Id="c34">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.247795 0.473359 0.670032 0.945748 1.059481 1.062511 1.033519 1.010671 1.032395 1.110649 1.221174 1.334969 1.42518 1.474125 1.497638 1.503816 1.493899 1.481597 1.479888 1.496672 1.487132 1.454116 1.423615 1.402328 1.387196 1.359585 1.326801 1.305639 1.311432 1.34772 1.39515 1.453201 1.512563 1.568082 1.620626 1.671827</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement35" Id="c35">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.462621 0.358126 0.375887 0.46366 0.525772 0.569935 0.608751 0.644098 0.692319 0.769394 0.862442 0.941104 0.972233 0.939754 0.872962 0.78977 0.691181 0.590984 0.505921 0.437492 0.361149 0.281779 0.223394 0.190665 0.172436 0.152925 0.13103 0.116717 0.117434 0.136267 0.171088 0.218884 0.277432 0.34951 0.427703 0.533698</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement36" Id="c36">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.015822 0.097353 0.089432 0.080184 0.065991 0.053564 0.043196 0.038821 0.046731 0.076374 0.141427 0.258015 0.442704 0.685248 0.947207 1.187314 1.387133 1.540906 1.651353 1.739764 1.789123 1.812296 1.823409 1.826545 1.830694 1.829873 1.830693 1.830707 1.832114 1.837665 1.835824 1.843422 1.856686 1.865656 1.878106 1.88293</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement37" Id="c37">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.393416 0.412504 0.547944 0.782704 0.931187 0.979463 0.96173 0.866648 0.721541 0.572949 0.443057 0.341073 0.255723 0.189779 0.154659 0.139056 0.128933 0.13165 0.165192 0.238854 0.321352 0.385427 0.438778 0.479266 0.493671 0.477216 0.443713 0.417972 0.418655 0.452023 0.510003 0.585332 0.66968 0.763813 0.859235 0.974474</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement38" Id="c38">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">-0.000243 0.035345 0.054641 0.064605 0.063698 0.058999 0.051607 0.045418 0.046666 0.058529 0.07698 0.093486 0.097795 0.087547 0.074653 0.064632 0.055199 0.05014 0.054712 0.067195 0.072356 0.064014 0.053238 0.0461 0.04109 0.034742 0.027305 0.022083 0.02145 0.026266 0.038063 0.057177 0.085324 0.125919 0.176001 0.252521</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement39" Id="c39">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.345844 0.499284 0.716164 1.029774 1.176046 1.197165 1.178914 1.158424 1.169876 1.222464 1.292007 1.352988 1.382567 1.374423 1.358736 1.342709 1.319667 1.303557 1.311253 1.345304 1.350436 1.323952 1.296965 1.277786 1.262478 1.232198 1.194913 1.170782 1.176898 1.216263 1.269986 1.334497 1.401902 1.466886 1.527861 1.589713</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement40" Id="c40">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.318955 0.196828 0.187228 0.181246 0.154653 0.127696 0.102903 0.087545 0.091618 0.118731 0.165182 0.221017 0.267393 0.288472 0.298512 0.307785 0.312037 0.328608 0.392531 0.527853 0.695523 0.867403 1.052334 1.221102 1.321475 1.349526 1.338856 1.321794 1.323891 1.354738 1.397684 1.453625 1.512251 1.567683 1.619269 1.668302</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement41" Id="c41">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.190199 0.111951 0.110325 0.109156 0.096193 0.085247 0.074479 0.068883 0.079405 0.118229 0.194851 0.314284 0.470938 0.625812 0.731618 0.76443 0.727955 0.648954 0.561918 0.483812 0.398578 0.311459 0.246838 0.209541 0.1886 0.167309 0.143432 0.127059 0.126355 0.144865 0.180497 0.230188 0.29099 0.365829 0.446971 0.555505</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement42" Id="c42">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.270951 0.145104 0.11534 0.104642 0.089011 0.077994 0.067797 0.062414 0.072145 0.108848 0.182545 0.299591 0.455594 0.613309 0.724372 0.763162 0.731391 0.655135 0.569244 0.49166 0.406072 0.318296 0.253002 0.215128 0.193822 0.172117 0.147857 0.131096 0.13017 0.148759 0.184791 0.235083 0.296735 0.372008 0.453617 0.562616</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement43" Id="c43">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.286744 0.422299 0.595417 0.79603 0.869181 0.859177 0.82584 0.801575 0.823037 0.900987 1.01332 1.129701 1.220147 1.264118 1.280999 1.281572 1.265981 1.250634 1.254863 1.28189 1.27764 1.241287 1.20571 1.18111 1.162328 1.129389 1.088985 1.062523 1.067986 1.108851 1.16733 1.237776 1.311347 1.383883 1.453067 1.525443</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement44" Id="c44">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.247705 0.237039 0.282159 0.344151 0.362804 0.355335 0.336069 0.313735 0.308422 0.324438 0.344302 0.351398 0.332865 0.294976 0.263569 0.242865 0.224196 0.217767 0.238448 0.284001 0.314154 0.311846 0.299493 0.289731 0.279264 0.258033 0.229457 0.208981 0.208481 0.232656 0.277675 0.338113 0.40939 0.493482 0.581948 0.696219</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement45" Id="c45">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.061745 0.158226 0.201576 0.211112 0.19411 0.166882 0.1415 0.126656 0.13759 0.182782 0.262029 0.368387 0.484317 0.577912 0.644666 0.69251 0.721888 0.758607 0.846441 1.009851 1.190845 1.363897 1.540578 1.6913 1.783461 1.825036 1.845687 1.854888 1.859284 1.863502 1.857425 1.860591 1.86992 1.87465 1.883151 1.884627</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement46" Id="c46">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.250713 0.412789 0.583403 0.793336 0.859505 0.830053 0.763864 0.689604 0.636276 0.602482 0.567828 0.525902 0.467964 0.405198 0.368829 0.355097 0.346562 0.358785 0.425221 0.565109 0.732909 0.901992 1.084302 1.247221 1.340886 1.364472 1.352426 1.337327 1.342587 1.375189 1.418339 1.472964 1.529931 1.583207 1.633033 1.67935</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement47" Id="c47">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.257828 0.443578 0.617283 0.859433 0.962377 0.971207 0.949108 0.926155 0.936289 0.988499 1.056937 1.114915 1.137331 1.119507 1.095294 1.073524 1.045738 1.02801 1.041664 1.084917 1.097046 1.07073 1.041456 1.020832 1.003031 0.969178 0.926893 0.899232 0.904877 0.947415 1.010545 1.087084 1.167814 1.24998 1.32923 1.414732</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement48" Id="c48">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.409339 0.558343 0.813335 1.219188 1.485346 1.60173 1.662292 1.684095 1.664862 1.620906 1.562605 1.498692 1.419326 1.332068 1.269612 1.227409 1.1874 1.160316 1.162971 1.193601 1.193538 1.15912 1.1248 1.101184 1.082336 1.048377 1.006856 0.980276 0.986515 1.02937 1.090659 1.164565 1.241962 1.319886 1.393723 1.473222</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement49" Id="c49">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.2279 0.131561 0.091903 0.082762 0.069008 0.058473 0.049903 0.045487 0.053214 0.083209 0.14702 0.254102 0.404004 0.563691 0.683857 0.734019 0.712154 0.642288 0.559741 0.483835 0.399362 0.312665 0.247866 0.210255 0.189364 0.168202 0.144712 0.128566 0.127459 0.144984 0.180031 0.229297 0.289998 0.364551 0.445794 0.554468</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement50" Id="c50">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.496013 0.51919 0.686518 0.992766 1.154838 1.152061 1.055355 0.893328 0.713694 0.553975 0.422252 0.323102 0.241554 0.179573 0.149106 0.138888 0.132831 0.140032 0.184541 0.288395 0.431675 0.59679 0.796005 0.996125 1.123723 1.164102 1.154729 1.136902 1.141322 1.178661 1.233014 1.301696 1.373304 1.443561 1.509185 1.575793</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement51" Id="c51">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.241556 0.1623 0.11548 0.095528 0.068623 0.051353 0.03763 0.02967 0.03054 0.041219 0.061768 0.087216 0.107006 0.112228 0.114161 0.118441 0.12098 0.131269 0.17473 0.279885 0.438664 0.645249 0.929633 1.270138 1.549475 1.715607 1.802542 1.843047 1.864335 1.876438 1.874112 1.879235 1.888931 1.894149 1.90287 1.903548</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement52" Id="c52">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.145801 0.151044 0.167914 0.178434 0.165182 0.137558 0.107301 0.081122 0.069447 0.06821 0.067873 0.063077 0.051632 0.038307 0.031311 0.029146 0.027883 0.030628 0.048225 0.098031 0.183633 0.299896 0.456028 0.629774 0.750443 0.791099 0.778695 0.75542 0.754893 0.790688 0.85227 0.932842 1.021172 1.114377 1.204193 1.303885</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement53" Id="c53">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.214061 0.17701 0.179074 0.174344 0.154277 0.130625 0.108891 0.096848 0.107296 0.148391 0.22393 0.331455 0.457464 0.56884 0.651684 0.707155 0.737677 0.768057 0.837387 0.960892 1.075813 1.152934 1.211753 1.252043 1.266418 1.249163 1.216403 1.190639 1.191821 1.226828 1.278087 1.343209 1.411299 1.476552 1.537849 1.599218</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement54" Id="c54">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.29301 0.437147 0.582623 0.81099 0.954252 1.026498 1.079761 1.125435 1.17962 1.25826 1.347725 1.421511 1.452188 1.427468 1.370165 1.290869 1.188247 1.074973 0.969923 0.882017 0.781066 0.675293 0.59559 0.548587 0.519892 0.485394 0.445968 0.420853 0.424891 0.461775 0.522083 0.597137 0.680114 0.771915 0.865121 0.978763</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement55" Id="c55">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.174947 0.190634 0.267781 0.343078 0.368633 0.359805 0.329978 0.285053 0.243282 0.209803 0.175559 0.140202 0.103143 0.071408 0.054749 0.047424 0.042555 0.043953 0.060726 0.101418 0.151591 0.191662 0.224477 0.24977 0.258515 0.246054 0.220777 0.200689 0.198945 0.221318 0.264572 0.323914 0.395236 0.47985 0.569105 0.683447</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement56" Id="c56">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.332646 0.31635 0.414036 0.582595 0.712421 0.799284 0.854883 0.83897 0.742479 0.612278 0.485564 0.380365 0.288463 0.214748 0.171804 0.1488 0.132079 0.127287 0.145616 0.185908 0.216097 0.219372 0.213005 0.207692 0.200293 0.183337 0.160102 0.143397 0.143117 0.163054 0.200973 0.253097 0.316378 0.393105 0.475916 0.586386</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement57" Id="c57">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.431105 0.593526 0.909415 1.398383 1.700312 1.803236 1.839537 1.854774 1.859102 1.865518 1.87351 1.879098 1.874554 1.859091 1.848213 1.838875 1.825858 1.807338 1.782077 1.768222 1.740992 1.707916 1.682043 1.663751 1.653941 1.637474 1.620427 1.609594 1.61347 1.634787 1.656181 1.686922 1.720188 1.748676 1.77705 1.80063</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement58" Id="c58">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.132575 0.145076 0.161442 0.189066 0.192271 0.184919 0.168733 0.149986 0.1431 0.150029 0.1581 0.157316 0.140783 0.114426 0.094661 0.083005 0.073598 0.071222 0.08478 0.115013 0.139948 0.144391 0.140495 0.136585 0.131032 0.11835 0.100607 0.087513 0.085987 0.099681 0.12818 0.169431 0.221947 0.289268 0.363782 0.467215</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement59" Id="c59">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.254905 0.201372 0.247721 0.346066 0.447014 0.547793 0.658768 0.731855 0.712804 0.622956 0.510947 0.407472 0.311451 0.229694 0.176622 0.143446 0.117278 0.100252 0.096477 0.100305 0.093089 0.073418 0.056026 0.046232 0.040582 0.034221 0.027186 0.022685 0.022613 0.027728 0.039468 0.058184 0.08555 0.125052 0.174055 0.249665</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement60" Id="c60">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.28697 0.433603 0.592958 0.787115 0.852941 0.839991 0.807095 0.787049 0.818138 0.91536 1.060385 1.22655 1.387445 1.512077 1.592447 1.630981 1.634267 1.611782 1.573831 1.540109 1.483389 1.413221 1.355929 1.31812 1.294502 1.261562 1.223833 1.199121 1.204182 1.242354 1.294235 1.357428 1.422935 1.48594 1.545423 1.605587</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement61" Id="c61">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.172407 0.11815 0.098446 0.104697 0.107028 0.105461 0.100952 0.095751 0.10148 0.124063 0.15745 0.187756 0.199124 0.185208 0.163297 0.142684 0.121136 0.104725 0.099755 0.101867 0.093353 0.072577 0.054405 0.043983 0.038152 0.031788 0.025041 0.020588 0.020215 0.02488 0.035484 0.053448 0.07966 0.117852 0.165371 0.23961</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement62" Id="c62">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.140821 0.098694 0.102384 0.098839 0.085595 0.07667 0.068208 0.064097 0.074575 0.11172 0.185227 0.299102 0.445082 0.581807 0.665771 0.67931 0.630203 0.545982 0.459266 0.384246 0.305456 0.227795 0.171915 0.140808 0.123988 0.107583 0.089577 0.077716 0.076832 0.090342 0.117226 0.156676 0.207234 0.271459 0.343379 0.443273</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement63" Id="c63">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.0421 0.040595 0.044938 0.04 0.02836 0.021812 0.015275 0.011311 0.010369 0.012807 0.016779 0.020997 0.021437 0.018647 0.016526 0.015615 0.015053 0.016497 0.026066 0.055114 0.106756 0.173954 0.256867 0.341461 0.393143 0.399448 0.376531 0.352234 0.348463 0.374676 0.426392 0.497557 0.580764 0.676004 0.773747 0.893831</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement64" Id="c64">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.463348 0.510771 0.699331 1.001213 1.138606 1.101411 0.969795 0.785487 0.601811 0.448104 0.326268 0.23804 0.168755 0.119043 0.096285 0.08971 0.086252 0.092779 0.130538 0.225425 0.373043 0.572932 0.861231 1.216051 1.510253 1.685659 1.775843 1.81808 1.839727 1.852533 1.851604 1.858066 1.869601 1.876514 1.886945 1.889179</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement65" Id="c65">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.441276 0.431237 0.529096 0.714007 0.794164 0.799029 0.7711 0.724794 0.686518 0.661361 0.632004 0.591527 0.531384 0.463796 0.419494 0.395901 0.37767 0.378272 0.422219 0.511306 0.590255 0.631664 0.657022 0.673146 0.673157 0.647538 0.608489 0.580667 0.58351 0.622619 0.686029 0.765827 0.853121 0.947422 1.040762 1.149724</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement66" Id="c66">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.094334 0.119889 0.093839 0.084178 0.068643 0.056106 0.04623 0.042029 0.048993 0.077304 0.139412 0.246947 0.404796 0.585441 0.73921 0.82709 0.837942 0.789492 0.716512 0.642784 0.553072 0.456268 0.381143 0.335815 0.309398 0.281494 0.249942 0.227695 0.226131 0.250575 0.296469 0.358807 0.431841 0.517587 0.608321 0.724045</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement67" Id="c67">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.344825 0.291591 0.280696 0.307063 0.301112 0.282904 0.263531 0.253298 0.275671 0.346527 0.467137 0.626964 0.806831 0.959122 1.047312 1.062571 1.014523 0.928597 0.835614 0.752496 0.655891 0.553682 0.475867 0.429296 0.401906 0.370684 0.334912 0.310825 0.311865 0.342871 0.39643 0.465879 0.544723 0.635007 0.727834 0.844521</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement68" Id="c68">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.391556 0.542538 0.769759 1.097534 1.255429 1.27435 1.252047 1.232993 1.253463 1.323944 1.421366 1.518786 1.59403 1.634934 1.656452 1.663515 1.659103 1.651858 1.648205 1.65958 1.650355 1.625974 1.604967 1.589626 1.579929 1.560889 1.539363 1.525517 1.530535 1.557005 1.586945 1.626382 1.668146 1.704184 1.739666 1.769291</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement69" Id="c69">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">-0.047662 0.007078 0.019404 0.026609 0.02811 0.023851 0.019434 0.016129 0.016274 0.021073 0.0294 0.037427 0.040196 0.035745 0.030174 0.026022 0.022553 0.021307 0.025764 0.036416 0.045002 0.044398 0.040118 0.036688 0.033701 0.02896 0.023085 0.018846 0.018106 0.02184 0.031072 0.046658 0.070355 0.105843 0.151161 0.22257</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement70" Id="c70">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.256663 0.245478 0.278912 0.376431 0.479834 0.584171 0.69901 0.775885 0.759269 0.668739 0.55428 0.447529 0.34727 0.261068 0.203948 0.16773 0.138666 0.119248 0.114587 0.118208 0.109437 0.086872 0.067107 0.055687 0.049045 0.041517 0.033004 0.027639 0.027512 0.033799 0.047842 0.06998 0.100974 0.144538 0.197559 0.277625</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement71" Id="c71">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.352689 0.550216 0.81273 1.19175 1.381107 1.411191 1.392286 1.373405 1.389874 1.452795 1.539836 1.626579 1.694253 1.733405 1.758548 1.772937 1.779618 1.783929 1.786364 1.802706 1.804499 1.79852 1.7947 1.790568 1.790621 1.785538 1.781526 1.77916 1.78148 1.790878 1.794056 1.806748 1.824493 1.837127 1.852904 1.861917</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement72" Id="c72">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.292748 0.224243 0.251962 0.285657 0.28849 0.277737 0.263863 0.257572 0.28123 0.352625 0.470843 0.624206 0.787975 0.913176 0.970047 0.957498 0.888697 0.790292 0.691902 0.607474 0.514342 0.418656 0.346922 0.305082 0.280981 0.254432 0.224574 0.204517 0.205109 0.230364 0.27594 0.336411 0.407116 0.490694 0.578673 0.692765</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement73" Id="c73">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.24252 0.136552 0.128158 0.122633 0.10148 0.084772 0.070078 0.062139 0.07064 0.10441 0.171636 0.275762 0.410279 0.542512 0.644176 0.706441 0.730155 0.73672 0.755368 0.79161 0.795488 0.757273 0.714209 0.68346 0.660379 0.62586 0.583277 0.55271 0.552369 0.588469 0.649588 0.728227 0.81545 0.910542 1.00435 1.11545</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement74" Id="c74">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.357175 0.523757 0.736005 1.018602 1.138954 1.139703 1.106052 1.082793 1.10964 1.199138 1.327632 1.467018 1.59455 1.690485 1.758067 1.802509 1.830058 1.844892 1.847437 1.858717 1.856896 1.85128 1.848777 1.846091 1.848043 1.846854 1.848246 1.849039 1.849828 1.85368 1.84844 1.852777 1.863349 1.869526 1.879298 1.882675</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement75" Id="c75">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.388122 0.504825 0.723839 1.020158 1.17225 1.200185 1.184541 1.157174 1.146877 1.161178 1.178617 1.181999 1.15294 1.097765 1.055192 1.028386 1.003066 0.995233 1.028291 1.100953 1.145902 1.150144 1.145144 1.140141 1.130046 1.100074 1.060415 1.034122 1.039943 1.081319 1.140588 1.212218 1.286991 1.361091 1.431799 1.507007</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement76" Id="c76">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.223632 0.112247 0.082958 0.071296 0.0546 0.040548 0.02918 0.022418 0.021823 0.027789 0.038971 0.051159 0.0574 0.054954 0.052644 0.053601 0.054106 0.059701 0.087423 0.162234 0.289127 0.47184 0.747359 1.110624 1.438809 1.651799 1.767178 1.821637 1.850236 1.865771 1.865297 1.871245 1.88175 1.887279 1.896607 1.896703</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement77" Id="c77">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.24887 0.318436 0.421101 0.527453 0.563336 0.557347 0.540725 0.533009 0.565696 0.656942 0.796459 0.961056 1.11938 1.22909 1.27643 1.265152 1.204974 1.11574 1.022087 0.939542 0.840681 0.73461 0.653434 0.604596 0.575146 0.539381 0.498729 0.472258 0.475565 0.513375 0.574648 0.651207 0.735612 0.828648 0.92215 1.034443</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement78" Id="c78">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.297597 0.512756 0.782207 1.172407 1.417729 1.509468 1.529944 1.492193 1.401911 1.288453 1.169587 1.060814 0.949977 0.846254 0.78301 0.750196 0.72577 0.72521 0.77576 0.877936 0.962843 1.006575 1.035427 1.053828 1.054886 1.028756 0.989771 0.963407 0.969222 1.011488 1.072924 1.147717 1.22582 1.304415 1.379428 1.459879</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement79" Id="c79">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.261444 0.450488 0.65528 0.950856 1.140816 1.232462 1.283012 1.294774 1.272162 1.230815 1.172855 1.103813 1.014507 0.917659 0.848367 0.801737 0.759118 0.73286 0.741063 0.776345 0.780551 0.745964 0.709375 0.684651 0.665103 0.631961 0.59088 0.564022 0.568515 0.609214 0.673039 0.751635 0.837242 0.929686 1.021654 1.130059</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement80" Id="c80">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.252512 0.319813 0.371617 0.439055 0.444987 0.42578 0.399845 0.384964 0.41162 0.496041 0.633157 0.808078 0.99848 1.160276 1.263535 1.300566 1.278552 1.216782 1.140082 1.067868 0.974885 0.870386 0.788381 0.738085 0.707339 0.669663 0.626155 0.597515 0.600565 0.640493 0.704338 0.783764 0.870676 0.963851 1.056283 1.164159</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement81" Id="c81">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.3029 0.143903 0.12391 0.120002 0.105493 0.093773 0.083516 0.077881 0.088966 0.128185 0.205861 0.325664 0.480012 0.630287 0.729433 0.756278 0.715674 0.634485 0.547003 0.469574 0.385393 0.300348 0.237317 0.201173 0.181287 0.161009 0.138437 0.12306 0.122324 0.139645 0.173783 0.221482 0.280584 0.353472 0.433286 0.540733</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement82" Id="c82">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.293504 0.255892 0.300412 0.41562 0.528015 0.638267 0.761713 0.849561 0.842773 0.757202 0.642543 0.532056 0.425368 0.330689 0.265856 0.223183 0.187614 0.162385 0.153694 0.15414 0.140591 0.112098 0.087818 0.073808 0.065641 0.056542 0.046332 0.039652 0.0395 0.047668 0.064573 0.090895 0.126659 0.175354 0.233403 0.318697</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement83" Id="c83">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.449196 0.509567 0.69575 1.027774 1.192396 1.190911 1.095488 0.934034 0.753698 0.591882 0.457531 0.355188 0.27007 0.204084 0.171367 0.159777 0.153065 0.161074 0.209056 0.319411 0.468543 0.637882 0.839463 1.039371 1.165438 1.205083 1.195918 1.178973 1.183872 1.220219 1.272053 1.337611 1.406177 1.472594 1.534771 1.596949</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement84" Id="c84">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.362939 0.318668 0.378327 0.441629 0.435508 0.388277 0.328255 0.270484 0.235184 0.216934 0.199297 0.17653 0.144936 0.112737 0.096012 0.091313 0.088707 0.095511 0.13299 0.226344 0.370133 0.559631 0.822751 1.133397 1.376824 1.505392 1.554932 1.568699 1.581142 1.605276 1.629933 1.664805 1.702644 1.73509 1.766473 1.791045</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement85" Id="c85">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.253666 0.37934 0.511606 0.676272 0.749792 0.761494 0.752977 0.743172 0.761543 0.817798 0.890204 0.950714 0.973035 0.950354 0.91517 0.878087 0.832297 0.793187 0.778751 0.783466 0.757118 0.698414 0.645115 0.610826 0.587072 0.553334 0.512781 0.485967 0.489727 0.528135 0.590333 0.667801 0.752567 0.84572 0.939457 1.050994</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement86" Id="c86">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.045814 0.022261 0.033419 0.027866 0.026289 0.022001 0.017919 0.0146 0.014946 0.020305 0.030212 0.040584 0.045361 0.04152 0.035556 0.030929 0.02668 0.02491 0.02941 0.040709 0.048535 0.046418 0.040802 0.036507 0.032973 0.027962 0.021735 0.017391 0.01683 0.020584 0.030077 0.045881 0.069735 0.105737 0.151621 0.223282</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement87" Id="c87">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.531238 0.382859 0.454374 0.615832 0.754074 0.883668 1.035686 1.179963 1.261116 1.272381 1.232521 1.158806 1.050214 0.922104 0.81126 0.716674 0.622582 0.535423 0.466681 0.413031 0.347291 0.274128 0.219186 0.188289 0.170659 0.151407 0.129581 0.11563 0.11667 0.135561 0.170509 0.218367 0.276654 0.348538 0.426658 0.531805</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement88" Id="c88">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.389272 0.320756 0.361253 0.409581 0.392312 0.344454 0.28584 0.23263 0.20129 0.186393 0.172167 0.152987 0.125148 0.096561 0.081836 0.077916 0.07576 0.082002 0.116569 0.205644 0.347785 0.543623 0.829933 1.190319 1.497467 1.685355 1.783638 1.829707 1.853731 1.866994 1.865749 1.871647 1.88202 1.887471 1.896412 1.896907</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement89" Id="c89">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.360222 0.373132 0.513732 0.730618 0.878739 0.957374 0.986035 0.936764 0.815981 0.67368 0.54083 0.431713 0.33584 0.258419 0.213964 0.191455 0.175557 0.17431 0.203692 0.265545 0.321346 0.346938 0.359246 0.366386 0.363189 0.34214 0.310646 0.287498 0.287771 0.316686 0.368274 0.435834 0.513125 0.602264 0.694054 0.809378</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement90" Id="c90">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.232578 0.154571 0.143254 0.129756 0.107351 0.088779 0.0714 0.060576 0.064825 0.088212 0.130129 0.183996 0.233013 0.258708 0.269854 0.275892 0.274928 0.28312 0.327174 0.416593 0.506365 0.564848 0.605549 0.633312 0.63969 0.617555 0.579066 0.549012 0.547627 0.582443 0.642721 0.721374 0.809066 0.904266 0.998789 1.109746</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement91" Id="c91">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.156396 0.081698 0.10685 0.110141 0.109755 0.105037 0.096956 0.089082 0.092199 0.110897 0.138499 0.162615 0.169334 0.154944 0.136078 0.120143 0.104209 0.093969 0.0964 0.107929 0.108246 0.092426 0.075507 0.064838 0.058102 0.049981 0.040382 0.033886 0.033028 0.039711 0.054771 0.078477 0.111871 0.158624 0.214529 0.298493</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement92" Id="c92">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.238329 0.385844 0.544924 0.742758 0.82529 0.82811 0.806251 0.784538 0.794035 0.84387 0.909314 0.962835 0.979255 0.955427 0.926085 0.900489 0.869449 0.849855 0.863542 0.906095 0.916657 0.886995 0.85398 0.831142 0.811757 0.777119 0.734112 0.705511 0.710092 0.751953 0.816879 0.896521 0.981817 1.071879 1.159836 1.259816</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement93" Id="c93">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.108217 0.058214 0.054241 0.044048 0.032566 0.025637 0.02105 0.018771 0.022151 0.036739 0.071725 0.134498 0.22099 0.303538 0.355824 0.371931 0.355791 0.324581 0.297827 0.277142 0.239964 0.18856 0.146754 0.121945 0.108016 0.093709 0.077752 0.066651 0.065393 0.07641 0.100007 0.135519 0.182144 0.242806 0.311726 0.408924</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement94" Id="c94">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.266308 0.199099 0.194026 0.19921 0.185493 0.168218 0.151109 0.142379 0.159356 0.215075 0.316146 0.461752 0.641016 0.81274 0.931162 0.97427 0.946282 0.871965 0.785102 0.70478 0.610816 0.510858 0.43428 0.388529 0.361474 0.331733 0.29745 0.274231 0.274389 0.302615 0.353212 0.419827 0.496809 0.585464 0.677229 0.793315</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement95" Id="c95">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.089145 0.093046 0.095271 0.09226 0.088625 0.081754 0.074343 0.069975 0.079659 0.113691 0.176246 0.263057 0.35471 0.416391 0.435455 0.419487 0.376757 0.324464 0.280084 0.244465 0.198825 0.146713 0.108078 0.086497 0.075183 0.06413 0.052047 0.044089 0.043561 0.05204 0.070731 0.099461 0.138195 0.190644 0.251993 0.3409</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement96" Id="c96">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.117976 0.160403 0.162404 0.167864 0.14863 0.124683 0.098439 0.078613 0.074061 0.083798 0.098394 0.108974 0.107096 0.094161 0.085355 0.082529 0.080434 0.085799 0.116718 0.192371 0.300217 0.421362 0.559599 0.693178 0.773417 0.787982 0.762968 0.735629 0.733651 0.769034 0.830294 0.91032 0.998357 1.09191 1.182763 1.284227</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement97" Id="c97">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.481734 0.541781 0.777015 1.140029 1.325321 1.327176 1.241692 1.106175 0.96037 0.825055 0.702426 0.600307 0.504432 0.421997 0.37807 0.362457 0.35401 0.368034 0.439649 0.592862 0.78704 1.004711 1.266215 1.525634 1.699122 1.783698 1.823609 1.841289 1.850633 1.857726 1.854591 1.860267 1.871067 1.87752 1.887692 1.889601</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement98" Id="c98">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.270646 0.38803 0.545644 0.745639 0.838117 0.860264 0.861923 0.864865 0.903656 0.995013 1.121923 1.254622 1.361504 1.413585 1.415956 1.378665 1.305443 1.211641 1.117325 1.035991 0.937782 0.831497 0.749869 0.700588 0.670315 0.632776 0.590207 0.562848 0.567694 0.607942 0.671821 0.750659 0.836028 0.928487 1.020591 1.128956</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement99" Id="c99">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.488487 0.330378 0.347602 0.463721 0.578544 0.701701 0.849232 0.977984 1.0149 0.95818 0.854224 0.740791 0.621301 0.506871 0.422191 0.360073 0.304341 0.258842 0.230748 0.213062 0.181615 0.138833 0.105568 0.087051 0.076993 0.066063 0.053905 0.046072 0.046184 0.056234 0.076311 0.105873 0.14547 0.198329 0.260032 0.34925</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement100" Id="c100">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.415847 0.626956 0.930348 1.425134 1.736669 1.835683 1.863085 1.869504 1.868039 1.871296 1.878095 1.885715 1.88523 1.875488 1.871692 1.870957 1.870017 1.86726 1.859836 1.866092 1.862447 1.856497 1.853941 1.850988 1.852188 1.850771 1.852545 1.854229 1.85598 1.86002 1.854821 1.858884 1.868909 1.87416 1.883777 1.884752</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement101" Id="c101">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.240635 0.449214 0.693652 1.038212 1.206128 1.190114 1.077557 0.903861 0.719455 0.558185 0.425974 0.326738 0.245181 0.183168 0.153021 0.142915 0.137297 0.145341 0.192364 0.303177 0.460438 0.651762 0.898242 1.163499 1.350142 1.432907 1.452966 1.451664 1.460191 1.488543 1.523159 1.568171 1.615459 1.657881 1.698541 1.733859</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement102" Id="c102">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.252164 0.175259 0.162624 0.143539 0.123427 0.105191 0.089506 0.081637 0.093251 0.135762 0.220196 0.354093 0.540343 0.750679 0.936065 1.057721 1.103504 1.086182 1.034655 0.974497 0.886626 0.783391 0.700121 0.647905 0.616186 0.579285 0.536554 0.507141 0.50736 0.542758 0.603458 0.681099 0.767315 0.862069 0.956521 1.068687</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement103" Id="c103">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.22419 0.383565 0.518062 0.653739 0.686164 0.660914 0.622687 0.597935 0.622442 0.709384 0.842388 0.996294 1.14271 1.248948 1.315501 1.350106 1.358391 1.359231 1.371447 1.403233 1.405923 1.379171 1.352137 1.33244 1.317131 1.288366 1.252909 1.229362 1.23407 1.270471 1.320605 1.38145 1.444656 1.505198 1.562003 1.618059</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement104" Id="c104">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.103191 0.075766 0.074578 0.080222 0.075613 0.067758 0.05859 0.053442 0.06024 0.087285 0.13882 0.210434 0.284778 0.332656 0.348541 0.340423 0.313179 0.281833 0.261452 0.249592 0.22109 0.176414 0.138574 0.11613 0.103271 0.089454 0.07385 0.063135 0.0621 0.073414 0.097068 0.132053 0.178164 0.238172 0.306681 0.403257</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement105" Id="c105">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.333562 0.410666 0.594267 0.868116 1.069219 1.223348 1.384636 1.53342 1.621508 1.647299 1.62975 1.580131 1.492618 1.375853 1.263385 1.155628 1.039439 0.923453 0.822676 0.740232 0.64609 0.546582 0.47184 0.428365 0.40214 0.371091 0.33569 0.312839 0.316157 0.349325 0.404379 0.47396 0.5523 0.641355 0.732584 0.847292</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement106" Id="c106">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.429048 0.572486 0.82802 1.226046 1.44871 1.513544 1.526395 1.52707 1.54141 1.581271 1.632077 1.676114 1.696416 1.690273 1.677781 1.660402 1.634873 1.606004 1.579349 1.565762 1.529523 1.477373 1.433871 1.404807 1.386342 1.35752 1.324109 1.303026 1.308717 1.34401 1.389896 1.446075 1.504492 1.559288 1.611109 1.661681</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement107" Id="c107">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.362067 0.300619 0.327379 0.389028 0.411327 0.408148 0.395665 0.383578 0.393862 0.435538 0.491507 0.537689 0.550931 0.526486 0.493567 0.462618 0.427975 0.402502 0.401379 0.417062 0.407661 0.367707 0.32818 0.3026 0.284885 0.260832 0.231281 0.210922 0.211268 0.236325 0.282273 0.343224 0.41469 0.498631 0.586875 0.700806</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement108" Id="c108">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.110389 0.101241 0.113452 0.151819 0.176445 0.187353 0.186189 0.170731 0.151137 0.133398 0.112862 0.088574 0.062081 0.039862 0.027633 0.021705 0.017691 0.01648 0.020761 0.03142 0.040211 0.040663 0.037792 0.035344 0.032814 0.02815 0.022235 0.018082 0.017537 0.021505 0.031151 0.04741 0.071491 0.107802 0.154177 0.225538</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement109" Id="c109">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.27941 0.434549 0.643894 0.93799 1.13236 1.220526 1.249047 1.203716 1.090779 0.951857 0.815135 0.697295 0.58651 0.490757 0.433546 0.403564 0.381362 0.379481 0.420402 0.504323 0.574886 0.606804 0.623388 0.633077 0.629898 0.603295 0.564604 0.537536 0.540628 0.579148 0.641677 0.720186 0.806226 0.899662 0.992965 1.102711</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement110" Id="c110">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.079039 0.082559 0.079833 0.073322 0.061607 0.053661 0.044825 0.038603 0.040993 0.055619 0.081245 0.110865 0.131089 0.131994 0.124121 0.114966 0.103593 0.097309 0.105126 0.125118 0.134678 0.123439 0.10766 0.09682 0.088872 0.077803 0.06388 0.054208 0.05299 0.062673 0.083922 0.116009 0.159068 0.216255 0.282142 0.376648</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement111" Id="c111">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.24564 0.380374 0.555044 0.772284 0.844819 0.799959 0.698581 0.569603 0.447968 0.345884 0.259288 0.191997 0.136005 0.094835 0.075857 0.070377 0.067307 0.072716 0.104982 0.188033 0.319691 0.497014 0.746654 1.043808 1.276069 1.394603 1.434243 1.441085 1.452216 1.480838 1.515272 1.560896 1.609199 1.653278 1.695293 1.732364</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement112" Id="c112">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.375772 0.416982 0.516573 0.670693 0.7216 0.714464 0.690243 0.676341 0.709233 0.804827 0.947487 1.111552 1.268409 1.382193 1.443245 1.453762 1.420654 1.358162 1.285404 1.219631 1.132199 1.032534 0.953818 0.905046 0.874741 0.836038 0.791327 0.762797 0.767643 0.810052 0.87491 0.954031 1.038705 1.12724 1.212886 1.310247</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement113" Id="c113">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.12742 0.078901 0.083404 0.10295 0.100337 0.093124 0.081724 0.069706 0.065663 0.071375 0.078774 0.080608 0.071795 0.056446 0.044884 0.038162 0.033061 0.031927 0.03976 0.057994 0.074192 0.077852 0.075447 0.073088 0.0697 0.061734 0.050727 0.04282 0.041698 0.04945 0.066829 0.094189 0.1317 0.182872 0.243509 0.332264</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement114" Id="c114">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.229662 0.223011 0.28237 0.406213 0.511657 0.606466 0.695079 0.731526 0.682592 0.579758 0.465948 0.365848 0.276029 0.201911 0.155991 0.129219 0.108691 0.097702 0.102103 0.117166 0.120404 0.105473 0.088924 0.078418 0.071209 0.061875 0.050655 0.043004 0.04254 0.051437 0.069824 0.098276 0.13625 0.187623 0.248147 0.336323</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement115" Id="c115">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.418783 0.525788 0.688634 0.971981 1.103983 1.131804 1.126818 1.122427 1.154538 1.237167 1.350013 1.464416 1.555422 1.60325 1.617123 1.602418 1.561215 1.50141 1.434681 1.377365 1.298915 1.208375 1.136278 1.090803 1.062326 1.024114 0.980589 0.953121 0.959397 1.002436 1.064333 1.138914 1.21704 1.296355 1.371783 1.454046</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement116" Id="c116">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.390757 0.361808 0.41768 0.498069 0.528223 0.519221 0.497906 0.477022 0.484559 0.527918 0.586084 0.634669 0.649517 0.626451 0.597345 0.571692 0.542592 0.525248 0.539366 0.578635 0.5904 0.563396 0.531147 0.509421 0.491459 0.461466 0.423728 0.397734 0.399506 0.433916 0.492064 0.5661 0.648971 0.741076 0.834218 0.947103</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement117" Id="c117">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.284963 0.376552 0.483961 0.614076 0.663427 0.658133 0.636018 0.614886 0.624529 0.672088 0.734937 0.786761 0.803213 0.779614 0.749458 0.722315 0.690711 0.670779 0.683455 0.722593 0.731485 0.70069 0.666038 0.641951 0.622621 0.590001 0.549077 0.521795 0.525017 0.5635 0.626329 0.704213 0.790019 0.88335 0.976628 1.08635</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement118" Id="c118">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.233383 0.151374 0.133424 0.130676 0.108892 0.084571 0.062792 0.047657 0.044645 0.052014 0.064259 0.074273 0.07452 0.065913 0.060056 0.059594 0.059377 0.065128 0.095081 0.17431 0.305982 0.492772 0.771144 1.132442 1.45152 1.653935 1.761628 1.812019 1.838332 1.852615 1.852507 1.858875 1.869234 1.875467 1.885202 1.885735</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement119" Id="c119">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.327326 0.336092 0.435493 0.60126 0.736704 0.839661 0.925315 0.94829 0.880359 0.760749 0.632869 0.519652 0.415302 0.32645 0.270528 0.236821 0.210548 0.198182 0.210293 0.241348 0.254947 0.239517 0.218765 0.204474 0.193157 0.175048 0.151778 0.135854 0.136007 0.15558 0.192619 0.243523 0.305655 0.381187 0.462153 0.570286</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement120" Id="c120">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.296816 0.492358 0.745369 1.116832 1.315371 1.355456 1.331085 1.271249 1.200849 1.131354 1.057407 0.981607 0.893473 0.803851 0.749096 0.723001 0.704331 0.710788 0.773386 0.897933 1.014969 1.097268 1.164929 1.213034 1.2305 1.213183 1.180138 1.156443 1.162082 1.201324 1.255711 1.321692 1.38992 1.456291 1.518506 1.581254</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement121" Id="c121">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.218218 0.285198 0.357311 0.404397 0.396555 0.362521 0.32392 0.297962 0.308724 0.364187 0.451264 0.548632 0.629702 0.671626 0.692503 0.705716 0.709084 0.725647 0.790837 0.91554 1.033719 1.116214 1.183062 1.230567 1.248228 1.231856 1.199242 1.174584 1.17797 1.215178 1.26776 1.33313 1.401116 1.467029 1.529045 1.590375</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement122" Id="c122">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.210983 0.206338 0.219254 0.265622 0.288275 0.296964 0.29933 0.297875 0.312404 0.351717 0.401718 0.441185 0.448403 0.418907 0.379385 0.34132 0.300384 0.265854 0.24807 0.240612 0.215774 0.173869 0.138617 0.11793 0.105668 0.091922 0.076361 0.065806 0.065507 0.077892 0.102701 0.139116 0.18585 0.24659 0.315189 0.412526</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement123" Id="c123">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.477441 0.59756 0.915477 1.421015 1.728365 1.825713 1.852544 1.857276 1.853108 1.853358 1.856654 1.859064 1.850931 1.833445 1.823898 1.819187 1.815697 1.814315 1.81303 1.827059 1.828494 1.824725 1.823155 1.820536 1.821771 1.818786 1.817648 1.817009 1.818688 1.825097 1.82387 1.832023 1.845922 1.855299 1.868508 1.875241</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement124" Id="c124">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.519225 0.419396 0.474024 0.596469 0.661903 0.68398 0.692343 0.697303 0.722838 0.782912 0.857727 0.91848 0.937897 0.909082 0.863601 0.81348 0.75261 0.694986 0.656403 0.632252 0.582278 0.509851 0.449573 0.41271 0.389237 0.359424 0.32445 0.30122 0.30343 0.334627 0.388393 0.456954 0.534945 0.624163 0.716038 0.831717</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement125" Id="c125">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.172322 0.08981 0.070543 0.052187 0.038016 0.027739 0.021191 0.017678 0.020124 0.032236 0.060851 0.109809 0.173875 0.231069 0.27156 0.297145 0.308552 0.322888 0.369565 0.459667 0.547293 0.600618 0.634237 0.655403 0.658331 0.634573 0.595208 0.564163 0.560913 0.594391 0.654709 0.733456 0.821725 0.91837 1.013886 1.125022</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement126" Id="c126">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.419283 0.603178 0.909562 1.368542 1.653591 1.748152 1.77961 1.791659 1.797798 1.80869 1.822016 1.832192 1.82873 1.811459 1.797996 1.786126 1.770731 1.751876 1.730186 1.721889 1.697808 1.664003 1.636506 1.617104 1.60633 1.587898 1.567894 1.555387 1.560312 1.584889 1.611295 1.646988 1.685731 1.719638 1.753402 1.782091</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement127" Id="c127">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.39674 0.338641 0.384562 0.476459 0.536308 0.570528 0.597252 0.620583 0.660372 0.732619 0.821028 0.896794 0.928018 0.900417 0.843494 0.772925 0.687767 0.601494 0.529929 0.472578 0.402112 0.323771 0.264264 0.229927 0.210266 0.188364 0.163467 0.147133 0.147962 0.169362 0.20845 0.261329 0.324649 0.400727 0.482898 0.592353</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement128" Id="c128">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.320841 0.308875 0.40129 0.499687 0.503344 0.455241 0.382919 0.306951 0.249761 0.208214 0.169599 0.134023 0.09871 0.069976 0.056584 0.053083 0.051127 0.055846 0.083149 0.156655 0.280891 0.460679 0.733158 1.08772 1.39786 1.58842 1.683141 1.723412 1.745304 1.76397 1.772608 1.789615 1.810683 1.827158 1.845531 1.85711</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement129" Id="c129">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.179083 0.275813 0.340475 0.41316 0.410857 0.37258 0.326468 0.288662 0.281873 0.305856 0.340356 0.367542 0.369949 0.348539 0.332454 0.328244 0.32492 0.338723 0.403532 0.541353 0.711352 0.887298 1.080734 1.258156 1.363705 1.395038 1.387808 1.374474 1.379151 1.409725 1.449951 1.501642 1.555812 1.605961 1.653005 1.695703</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement130" Id="c130">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.349263 0.554316 0.81688 1.220315 1.435655 1.487532 1.48376 1.471936 1.480385 1.521651 1.576158 1.6255 1.653044 1.654883 1.65138 1.645639 1.635168 1.627701 1.629902 1.652053 1.654185 1.640092 1.627397 1.617205 1.610313 1.594209 1.575791 1.563996 1.568961 1.593456 1.619635 1.654832 1.692361 1.724741 1.756807 1.783314</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement131" Id="c131">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.164379 0.161906 0.199099 0.231825 0.235594 0.226104 0.207364 0.187745 0.183542 0.197715 0.216374 0.225201 0.213507 0.185274 0.161871 0.146415 0.133028 0.128988 0.146229 0.184033 0.211849 0.213411 0.205304 0.198374 0.190449 0.173919 0.151331 0.134841 0.1336 0.151894 0.187719 0.237895 0.299513 0.37522 0.457026 0.56532</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement132" Id="c132">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">-0.030158 0.030821 0.029672 0.043312 0.043518 0.039613 0.033759 0.027408 0.02691 0.031687 0.038531 0.042587 0.039867 0.031442 0.024736 0.020686 0.017515 0.016509 0.020908 0.031185 0.039927 0.040593 0.037713 0.035313 0.032649 0.027991 0.022234 0.017967 0.017036 0.020746 0.030054 0.045873 0.06961 0.105064 0.150301 0.220487</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement133" Id="c133">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.094151 0.06643 0.055868 0.047322 0.037283 0.02663 0.018521 0.013609 0.012989 0.0165 0.02265 0.028832 0.03099 0.028132 0.025851 0.02556 0.025042 0.027782 0.043842 0.090227 0.172352 0.28647 0.441746 0.618213 0.744321 0.789387 0.778787 0.755761 0.754364 0.788736 0.849464 0.929658 1.018553 1.112502 1.20306 1.30308</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement134" Id="c134">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.531106 0.467701 0.592437 0.840861 1.015908 1.117581 1.177685 1.167895 1.078829 0.95053 0.816891 0.698526 0.586121 0.488032 0.426691 0.39178 0.364429 0.355351 0.382856 0.442063 0.480934 0.48109 0.470416 0.461775 0.450153 0.423697 0.388028 0.363489 0.365533 0.398818 0.455533 0.527892 0.608922 0.700424 0.793456 0.908941</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement135" Id="c135">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.193447 0.115385 0.087934 0.086152 0.071953 0.062957 0.05463 0.050364 0.058964 0.09149 0.158069 0.266161 0.41152 0.557505 0.656789 0.685966 0.648379 0.570965 0.487107 0.412831 0.332879 0.25262 0.194093 0.160767 0.142593 0.124694 0.105067 0.09169 0.090886 0.105381 0.135009 0.177492 0.231088 0.298932 0.373974 0.476775</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement136" Id="c136">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.206799 0.123675 0.084913 0.069882 0.04981 0.037851 0.028931 0.025014 0.029689 0.04931 0.094214 0.174891 0.292316 0.422187 0.536381 0.622471 0.67722 0.722577 0.797701 0.921247 1.03481 1.107852 1.158891 1.192457 1.202692 1.182804 1.146861 1.117616 1.116201 1.150401 1.203978 1.272498 1.345099 1.417044 1.484538 1.553205</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement137" Id="c137">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.344924 0.25383 0.322859 0.431439 0.545583 0.659038 0.786255 0.878589 0.875588 0.792051 0.677213 0.56478 0.455144 0.356888 0.289189 0.243656 0.205287 0.177927 0.167341 0.166236 0.150647 0.119581 0.093224 0.077975 0.069181 0.05924 0.047939 0.040602 0.040455 0.049411 0.067916 0.096128 0.134163 0.185233 0.245292 0.333297</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement138" Id="c138">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.23601 0.400561 0.562251 0.720545 0.7599 0.729866 0.683687 0.652116 0.671643 0.751544 0.870588 1.000986 1.113743 1.183774 1.227219 1.257571 1.275437 1.302187 1.366985 1.481721 1.585266 1.668072 1.743905 1.798856 1.829487 1.839893 1.845868 1.847895 1.849458 1.853291 1.84787 1.852353 1.862593 1.868792 1.879115 1.881521</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement139" Id="c139">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.407417 0.257038 0.250154 0.272888 0.282079 0.27834 0.271002 0.268774 0.293499 0.361706 0.470677 0.602885 0.727823 0.801611 0.81415 0.777015 0.701857 0.611281 0.528601 0.459645 0.381705 0.299933 0.239186 0.204422 0.185108 0.16455 0.141303 0.12589 0.125979 0.144733 0.180709 0.230214 0.290567 0.36431 0.444216 0.552043</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement140" Id="c140">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">-0.041121 0.022896 0.029643 0.039551 0.042762 0.038939 0.033106 0.027644 0.028274 0.03605 0.049393 0.061699 0.065032 0.057633 0.048605 0.042198 0.036151 0.033525 0.038834 0.052002 0.06055 0.056958 0.049628 0.044328 0.040223 0.034231 0.026834 0.0216 0.021101 0.025751 0.036997 0.055522 0.083087 0.123216 0.172916 0.249659</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement141" Id="c141">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.380955 0.464597 0.629519 0.924253 1.132771 1.255285 1.345773 1.383072 1.345179 1.256858 1.147003 1.03714 0.920698 0.80916 0.733353 0.683791 0.639875 0.612784 0.619381 0.651297 0.653063 0.617095 0.579745 0.554606 0.535177 0.50373 0.464696 0.439134 0.442716 0.479752 0.540036 0.615399 0.69952 0.792163 0.885791 0.998198</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement142" Id="c142">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.149665 0.2657 0.350659 0.411631 0.39716 0.354004 0.300396 0.25454 0.234143 0.235136 0.238337 0.233318 0.211301 0.179647 0.161491 0.156779 0.153953 0.163682 0.213741 0.33108 0.500249 0.713203 0.999865 1.328338 1.582856 1.726175 1.797786 1.830263 1.846524 1.856573 1.853706 1.858555 1.869045 1.875065 1.885215 1.887012</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement143" Id="c143">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.354844 0.567686 0.851439 1.293597 1.532254 1.587207 1.583829 1.573782 1.58518 1.63032 1.691355 1.751576 1.796061 1.820071 1.83736 1.849255 1.856008 1.857097 1.851163 1.857736 1.854176 1.847941 1.844803 1.840904 1.8421 1.840267 1.841068 1.842222 1.843983 1.848636 1.844479 1.850226 1.861713 1.869054 1.880435 1.883806</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement144" Id="c144">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.218996 0.242228 0.299602 0.397851 0.48828 0.571346 0.65756 0.725091 0.753998 0.750088 0.717333 0.660894 0.579047 0.48576 0.410501 0.352643 0.299078 0.254923 0.227569 0.210199 0.179376 0.136905 0.103687 0.08542 0.075252 0.064639 0.052465 0.044763 0.044763 0.054247 0.074251 0.103683 0.143239 0.195962 0.257229 0.346247</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement145" Id="c145">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.552327 0.414589 0.496956 0.689869 0.853609 0.994876 1.145542 1.269417 1.311086 1.272582 1.187745 1.085253 0.965201 0.841189 0.744298 0.668493 0.595706 0.532566 0.490307 0.461542 0.412172 0.345483 0.291507 0.259625 0.240339 0.217497 0.190995 0.173607 0.174957 0.198446 0.240775 0.297107 0.363224 0.442315 0.52679 0.637586</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement146" Id="c146">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.362966 0.188862 0.15722 0.153055 0.138188 0.121763 0.107716 0.100645 0.11352 0.159903 0.247358 0.379283 0.547798 0.713856 0.829597 0.871381 0.841457 0.765881 0.6791 0.600163 0.510076 0.415531 0.343719 0.30116 0.276612 0.250469 0.220813 0.20038 0.20002 0.223604 0.267422 0.32694 0.397032 0.479655 0.567237 0.680582</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement147" Id="c147">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.431785 0.616519 0.898179 1.396892 1.697488 1.790011 1.803742 1.787075 1.753698 1.716364 1.676708 1.636484 1.585356 1.526978 1.49127 1.475168 1.465591 1.474502 1.518644 1.605572 1.678854 1.733997 1.783002 1.81604 1.834308 1.838861 1.84219 1.843445 1.845018 1.849198 1.844568 1.849326 1.859952 1.866304 1.876416 1.879555</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement148" Id="c148">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.383646 0.522002 0.781885 1.191743 1.412613 1.432588 1.351803 1.204593 1.031951 0.868523 0.724961 0.609953 0.50686 0.420428 0.374897 0.358066 0.348737 0.361641 0.431632 0.581001 0.766868 0.967677 1.199738 1.421487 1.561447 1.6185 1.634183 1.635811 1.642544 1.661223 1.678801 1.705127 1.734968 1.759559 1.78426 1.802025</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement149" Id="c149">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.458829 0.472803 0.633101 0.909625 1.072426 1.113331 1.076779 0.96435 0.80876 0.653708 0.518241 0.411208 0.319413 0.24655 0.207708 0.19092 0.180043 0.185106 0.228416 0.322185 0.430318 0.523349 0.608892 0.676999 0.706402 0.693713 0.658663 0.630938 0.633171 0.671687 0.7347 0.814224 0.900833 0.993696 1.085251 1.190698</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement150" Id="c150">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.364392 0.331886 0.387124 0.480881 0.528763 0.543156 0.548424 0.556693 0.595735 0.685707 0.81485 0.955797 1.07217 1.124965 1.11501 1.056902 0.960675 0.84787 0.742819 0.65477 0.558481 0.460095 0.387006 0.344443 0.319449 0.291513 0.259632 0.238706 0.2404 0.268264 0.317308 0.380952 0.454227 0.539288 0.628043 0.741875</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement151" Id="c151">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.439592 0.593842 0.881629 1.335897 1.625027 1.728482 1.766528 1.771805 1.751144 1.718165 1.678233 1.635489 1.579005 1.513518 1.468495 1.440534 1.415347 1.402966 1.417632 1.463347 1.484283 1.477335 1.466977 1.458165 1.44925 1.426047 1.396929 1.378448 1.384346 1.417107 1.458182 1.50833 1.560815 1.608817 1.654621 1.696887</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement152" Id="c152">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.375985 0.388775 0.525251 0.763497 0.932009 1.050834 1.161396 1.244204 1.273188 1.256789 1.20876 1.138893 1.042051 0.930984 0.84164 0.77033 0.699935 0.63904 0.600016 0.576177 0.528085 0.458201 0.400232 0.365185 0.343153 0.315316 0.282573 0.261099 0.263475 0.293063 0.344059 0.409592 0.484854 0.571337 0.661067 0.775708</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement153" Id="c153">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.228676 0.286193 0.357934 0.451019 0.462512 0.42836 0.371069 0.305265 0.252213 0.212343 0.17439 0.137644 0.100871 0.070685 0.05581 0.05093 0.047975 0.051602 0.075843 0.138309 0.233368 0.347159 0.484198 0.621341 0.704968 0.721576 0.697986 0.671816 0.671834 0.708307 0.770329 0.850121 0.937757 1.031812 1.123526 1.228014</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement154" Id="c154">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.222665 0.155134 0.182952 0.199372 0.203057 0.197675 0.186207 0.175483 0.182299 0.213344 0.257921 0.298144 0.314513 0.299994 0.275807 0.252754 0.227393 0.209283 0.2097 0.223002 0.218215 0.189945 0.161433 0.143112 0.131058 0.115888 0.097701 0.085143 0.084343 0.098349 0.12684 0.167966 0.2199 0.286311 0.359978 0.46182</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement155" Id="c155">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.279918 0.489226 0.764996 1.092103 1.24165 1.246225 1.204966 1.164432 1.159514 1.195264 1.244496 1.284494 1.294925 1.273845 1.258105 1.254679 1.252378 1.269094 1.332183 1.451964 1.562751 1.653291 1.73672 1.797348 1.830775 1.841935 1.848138 1.850601 1.851912 1.85504 1.849481 1.853463 1.863974 1.870188 1.88037 1.883257</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement156" Id="c156">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.393701 0.590703 0.840776 1.275748 1.522062 1.586401 1.588336 1.571251 1.556868 1.556673 1.557595 1.551027 1.522963 1.477595 1.44595 1.428738 1.413358 1.411243 1.4397 1.504401 1.547929 1.565246 1.5768 1.582929 1.583057 1.568046 1.548322 1.534836 1.539874 1.565066 1.59316 1.630508 1.670513 1.705588 1.739561 1.768599</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement157" Id="c157">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.064052 0.157738 0.185902 0.20978 0.198802 0.176534 0.154538 0.142928 0.159447 0.217413 0.323639 0.480499 0.686948 0.911262 1.105787 1.236942 1.298387 1.301431 1.269244 1.226543 1.152318 1.058125 0.979615 0.928642 0.896808 0.857466 0.812141 0.781362 0.783374 0.82366 0.887072 0.96636 1.051754 1.14089 1.227218 1.323061</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement158" Id="c158">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.191618 0.174173 0.223364 0.291387 0.331453 0.351907 0.358564 0.347656 0.330522 0.314034 0.290333 0.256337 0.209884 0.161147 0.128171 0.108445 0.093155 0.086047 0.094574 0.115649 0.126492 0.117489 0.104003 0.094976 0.087922 0.077214 0.063773 0.054338 0.053625 0.064068 0.085821 0.118217 0.161542 0.218385 0.284152 0.378218</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement159" Id="c159">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.334871 0.308176 0.388585 0.467785 0.495459 0.491347 0.472222 0.44907 0.445492 0.467535 0.493416 0.50516 0.486482 0.443184 0.406424 0.380953 0.35679 0.346669 0.368127 0.416578 0.443903 0.434299 0.415404 0.401326 0.387823 0.362097 0.328352 0.304721 0.305343 0.335065 0.387975 0.456879 0.535212 0.625015 0.717446 0.832842</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement160" Id="c160">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.312442 0.427123 0.560422 0.716921 0.759733 0.733226 0.685931 0.64626 0.646665 0.691262 0.753406 0.80723 0.8284 0.813314 0.797414 0.790995 0.783341 0.794961 0.85943 0.984981 1.103636 1.188833 1.260233 1.311353 1.33188 1.318402 1.289473 1.268163 1.272894 1.308401 1.356647 1.415947 1.4776 1.535644 1.590029 1.643575</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement161" Id="c161">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.473834 0.223742 0.178101 0.162334 0.138032 0.116181 0.098676 0.089821 0.102574 0.147568 0.235997 0.375767 0.571371 0.798326 1.007954 1.159972 1.24239 1.261447 1.240155 1.203264 1.132094 1.039016 0.959681 0.907478 0.875022 0.835448 0.790132 0.758925 0.759889 0.798451 0.861844 0.941454 1.027634 1.116985 1.205009 1.301935</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement162" Id="c162">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.423892 0.284358 0.328927 0.456924 0.576175 0.68399 0.794353 0.85814 0.828437 0.729135 0.609729 0.499259 0.395622 0.30625 0.247004 0.209402 0.178851 0.159383 0.158327 0.168448 0.162904 0.138009 0.113764 0.099038 0.089773 0.078209 0.064733 0.055711 0.055584 0.066425 0.088567 0.121714 0.164905 0.221318 0.28635 0.378921</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement163" Id="c163">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.719979 0.424928 0.46475 0.630455 0.780378 0.913671 1.064232 1.203072 1.281486 1.290052 1.250035 1.176656 1.070011 0.944696 0.835828 0.742061 0.6485 0.561537 0.493127 0.439882 0.373471 0.298868 0.24219 0.20979 0.191428 0.170719 0.14744 0.132232 0.13345 0.153875 0.191305 0.241525 0.302225 0.375812 0.455644 0.562182</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement164" Id="c164">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.21476 0.143793 0.17809 0.235925 0.293711 0.337944 0.376035 0.394712 0.393896 0.381967 0.356093 0.315778 0.260601 0.201348 0.157944 0.129026 0.105335 0.089495 0.085943 0.089044 0.08212 0.063709 0.047618 0.038661 0.033394 0.027739 0.021531 0.01762 0.017209 0.021474 0.03165 0.048388 0.072995 0.108787 0.154337 0.224771</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement165" Id="c165">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.33489 0.267418 0.275844 0.316783 0.32039 0.302539 0.281649 0.270826 0.294592 0.368263 0.491231 0.653144 0.834789 0.990099 1.082946 1.103258 1.061054 0.979462 0.889471 0.80774 0.711253 0.608251 0.528937 0.481011 0.452705 0.419602 0.381725 0.356489 0.357995 0.390637 0.446894 0.518808 0.599572 0.689851 0.783259 0.897133</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement166" Id="c166">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.398621 0.608804 0.913277 1.413815 1.743953 1.848219 1.877078 1.884492 1.883884 1.884173 1.887289 1.890107 1.886479 1.876763 1.873215 1.872248 1.87208 1.868866 1.85993 1.863664 1.858056 1.852208 1.850344 1.846568 1.848649 1.84763 1.849843 1.851665 1.853445 1.856156 1.85057 1.853735 1.862853 1.865872 1.874901 1.874811</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement167" Id="c167">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.234818 0.12299 0.138972 0.1511 0.146501 0.1337 0.118881 0.107434 0.112681 0.140789 0.1856 0.233458 0.265203 0.268525 0.258422 0.245 0.227173 0.216109 0.225639 0.25211 0.260658 0.240834 0.216024 0.198815 0.186296 0.168055 0.145219 0.12893 0.127753 0.145401 0.18057 0.22991 0.290533 0.364777 0.445357 0.552232</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement168" Id="c168">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.183093 0.127917 0.100976 0.088825 0.071584 0.057616 0.045744 0.040714 0.047311 0.07395 0.131541 0.228733 0.364885 0.5126 0.637873 0.722224 0.762647 0.77828 0.799217 0.834115 0.834277 0.792857 0.746448 0.712675 0.688361 0.652851 0.609428 0.578253 0.577148 0.612921 0.674416 0.753232 0.840855 0.935042 1.029235 1.138679</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement169" Id="c169">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.167403 0.2495 0.305016 0.346784 0.341158 0.312144 0.281422 0.264559 0.286171 0.361169 0.489078 0.663428 0.873792 1.08319 1.253372 1.365026 1.423924 1.444195 1.444803 1.44283 1.408858 1.351145 1.299133 1.262876 1.23965 1.205555 1.166004 1.139433 1.143095 1.180839 1.235154 1.301891 1.371464 1.437962 1.501894 1.565155</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement170" Id="c170">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.456518 0.600313 0.876504 1.321342 1.615845 1.717415 1.756614 1.775576 1.787929 1.804619 1.822745 1.835669 1.83445 1.818216 1.802149 1.784612 1.761028 1.729136 1.691334 1.663767 1.619402 1.566321 1.523297 1.493811 1.476617 1.450523 1.421641 1.403398 1.408898 1.440028 1.479191 1.527857 1.578094 1.623203 1.668066 1.707784</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement171" Id="c171">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.459576 0.238976 0.256671 0.300723 0.318065 0.317088 0.307923 0.297398 0.306828 0.343474 0.392314 0.431595 0.440943 0.415926 0.383457 0.352996 0.320513 0.295994 0.292695 0.303203 0.292353 0.255892 0.220382 0.197846 0.183304 0.164547 0.141789 0.126048 0.125723 0.14412 0.17995 0.22931 0.290038 0.363245 0.443644 0.550773</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement172" Id="c172">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.265543 0.179008 0.203529 0.241389 0.2512 0.242272 0.225895 0.210676 0.214666 0.243941 0.285464 0.320129 0.329674 0.310585 0.28623 0.265623 0.24392 0.231475 0.242236 0.271374 0.281688 0.262259 0.237473 0.220422 0.20762 0.188203 0.163862 0.146617 0.145763 0.16523 0.20354 0.256305 0.319936 0.396902 0.48026 0.589469</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement173" Id="c173">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.184355 0.372552 0.552615 0.759275 0.831732 0.787822 0.693124 0.575509 0.467379 0.37615 0.295426 0.228711 0.169657 0.123311 0.101278 0.094308 0.090509 0.096851 0.134978 0.229344 0.371871 0.556754 0.808898 1.098311 1.316808 1.423098 1.45597 1.460922 1.471402 1.499014 1.532661 1.577019 1.623858 1.664359 1.704786 1.737431</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement174" Id="c174">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.35698 0.162402 0.14797 0.133651 0.116966 0.101642 0.087933 0.08174 0.093807 0.136019 0.218834 0.346925 0.516258 0.691255 0.823245 0.881906 0.866493 0.799596 0.716962 0.639365 0.548268 0.45148 0.377385 0.332871 0.307287 0.279433 0.247632 0.225893 0.225426 0.250555 0.296909 0.359147 0.432063 0.517308 0.60749 0.721421</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement175" Id="c175">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.142051 0.214901 0.294598 0.335879 0.329914 0.300899 0.269701 0.252987 0.27537 0.351792 0.482578 0.66518 0.894193 1.136433 1.350286 1.512838 1.629728 1.708371 1.756857 1.799181 1.817076 1.82235 1.824244 1.821392 1.823804 1.821462 1.821604 1.821576 1.82329 1.828308 1.827276 1.835 1.848388 1.855755 1.869495 1.872446</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement176" Id="c176">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.359597 0.410439 0.566245 0.7707 0.881759 0.917238 0.93012 0.941803 0.984675 1.074344 1.192614 1.30964 1.395485 1.426049 1.411721 1.362204 1.281081 1.181643 1.083757 0.999946 0.900783 0.794537 0.713307 0.664183 0.63457 0.597834 0.555702 0.528827 0.533405 0.573191 0.636616 0.714971 0.800465 0.892619 0.986312 1.096402</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement177" Id="c177">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.104911 0.11438 0.14064 0.159346 0.155382 0.135058 0.107788 0.082194 0.06815 0.062813 0.057621 0.049134 0.036313 0.02453 0.018668 0.016529 0.015203 0.016515 0.027057 0.05739 0.107966 0.169802 0.242404 0.312924 0.352707 0.353424 0.329563 0.306665 0.304062 0.32969 0.379778 0.448135 0.528287 0.62082 0.716886 0.835285</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement178" Id="c178">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.528198 0.592411 0.786561 1.165452 1.412829 1.510595 1.55818 1.588566 1.617314 1.656318 1.697533 1.729515 1.737691 1.719678 1.691692 1.653934 1.601951 1.537969 1.471179 1.415321 1.339662 1.252615 1.183703 1.139066 1.111216 1.073879 1.031978 1.005405 1.012293 1.054596 1.115274 1.18797 1.263307 1.337564 1.41021 1.485657</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement179" Id="c179">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.529966 0.615994 0.885145 1.352546 1.647514 1.736391 1.754329 1.755018 1.760668 1.779687 1.806052 1.830106 1.843251 1.844914 1.846827 1.847846 1.847082 1.842245 1.831991 1.834584 1.826123 1.81506 1.807613 1.800031 1.798742 1.793464 1.791288 1.789772 1.792527 1.79978 1.800809 1.81145 1.826709 1.836235 1.850342 1.855466</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement180" Id="c180">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.45978 0.468358 0.594261 0.76375 0.820971 0.799333 0.759404 0.734987 0.765863 0.865035 1.016261 1.194245 1.376593 1.532773 1.650085 1.728532 1.778893 1.807465 1.819647 1.836314 1.83828 1.834694 1.833051 1.828873 1.830185 1.827736 1.828521 1.828645 1.830731 1.834788 1.831925 1.838428 1.850428 1.856183 1.867797 1.8694</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement181" Id="c181">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.500819 0.411488 0.489022 0.678296 0.838577 0.957444 1.062598 1.113477 1.074454 0.970991 0.846407 0.728694 0.61317 0.509468 0.43956 0.39389 0.355357 0.331683 0.335226 0.357141 0.355512 0.323581 0.290412 0.268721 0.253369 0.231256 0.204121 0.185639 0.186479 0.210363 0.253946 0.311852 0.379956 0.460209 0.545983 0.657109</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement182" Id="c182">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.398137 0.25979 0.293166 0.329249 0.323993 0.298872 0.266648 0.239852 0.239906 0.268447 0.309683 0.344712 0.355218 0.33918 0.321809 0.311476 0.300564 0.303457 0.34447 0.428235 0.505657 0.548762 0.575504 0.592402 0.593059 0.568842 0.530836 0.50284 0.503487 0.538651 0.599209 0.677087 0.762879 0.856743 0.951272 1.061482</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement183" Id="c183">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.410048 0.520345 0.729901 1.039275 1.195923 1.219006 1.202793 1.189171 1.217591 1.297714 1.40796 1.521039 1.614722 1.672895 1.702948 1.708855 1.694449 1.663013 1.622547 1.590002 1.538099 1.474705 1.423262 1.388 1.366661 1.336098 1.30171 1.279354 1.285285 1.320758 1.367585 1.425454 1.484741 1.539512 1.592919 1.643092</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement184" Id="c184">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.641857 0.465102 0.534664 0.742263 0.903848 0.996 1.043367 1.01681 0.913875 0.777489 0.642986 0.528769 0.424842 0.338275 0.286594 0.25828 0.237252 0.232139 0.259571 0.317725 0.362489 0.37319 0.371626 0.368723 0.360845 0.337914 0.305867 0.283018 0.283975 0.313118 0.364678 0.432317 0.509152 0.597156 0.68942 0.803721</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement185" Id="c185">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.099382 0.132039 0.150636 0.18394 0.182848 0.171487 0.156329 0.143026 0.147203 0.174578 0.2152 0.252414 0.268997 0.258253 0.239748 0.222722 0.203822 0.193033 0.203228 0.229804 0.240161 0.222579 0.200009 0.184244 0.172561 0.155408 0.133604 0.117999 0.117015 0.134212 0.167887 0.21585 0.274927 0.347877 0.427465 0.533585</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement186" Id="c186">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.244205 0.256069 0.321952 0.384253 0.389756 0.358288 0.309827 0.259632 0.227525 0.21027 0.192533 0.169191 0.137153 0.104964 0.087334 0.080889 0.076735 0.081309 0.111878 0.185822 0.288361 0.398569 0.520088 0.632456 0.695323 0.699767 0.670992 0.643489 0.643158 0.678913 0.740571 0.820679 0.908142 1.001497 1.094525 1.199128</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement187" Id="c187">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.491039 0.573868 0.882603 1.371586 1.678998 1.762986 1.760324 1.717108 1.653475 1.580276 1.502764 1.428735 1.346496 1.263261 1.214012 1.193398 1.181708 1.194245 1.261127 1.39026 1.51375 1.616916 1.712326 1.78138 1.819297 1.831183 1.837298 1.839312 1.841208 1.844568 1.840779 1.846298 1.857715 1.863097 1.874168 1.875621</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement188" Id="c188">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.235787 0.105006 0.087059 0.080094 0.061907 0.049627 0.039903 0.036068 0.042915 0.069623 0.129331 0.236917 0.405336 0.621694 0.847313 1.04592 1.203557 1.327125 1.438646 1.558171 1.649349 1.711956 1.761099 1.79233 1.811528 1.816405 1.819025 1.8192 1.821333 1.825969 1.824356 1.832729 1.846598 1.854592 1.868539 1.871816</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement189" Id="c189">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.406383 0.367116 0.470061 0.644598 0.770757 0.851781 0.925928 0.993026 1.062039 1.14539 1.231751 1.294162 1.305669 1.256063 1.173345 1.072255 0.952325 0.82761 0.718166 0.628647 0.532589 0.435478 0.363947 0.32249 0.298663 0.271426 0.240848 0.221102 0.223343 0.250641 0.298438 0.360491 0.432421 0.515861 0.604028 0.717013</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement190" Id="c190">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.216186 0.390484 0.52372 0.712887 0.795793 0.798479 0.773772 0.744078 0.73984 0.764262 0.793535 0.806875 0.786691 0.738256 0.698597 0.672157 0.646486 0.637693 0.669938 0.739274 0.783435 0.784541 0.774809 0.766065 0.753323 0.721689 0.679832 0.652013 0.655986 0.696699 0.761485 0.841192 0.927483 1.018226 1.108607 1.211271</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement191" Id="c191">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.561304 0.496763 0.694872 1.026095 1.233337 1.302445 1.29518 1.214253 1.080379 0.932239 0.791723 0.674009 0.565322 0.472613 0.419401 0.394138 0.376864 0.38086 0.433375 0.54035 0.646119 0.720482 0.780099 0.822462 0.836391 0.815181 0.77669 0.7491 0.753191 0.794468 0.858822 0.939024 1.024586 1.113148 1.201388 1.297514</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement192" Id="c192">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.368788 0.366154 0.470328 0.598132 0.640661 0.629595 0.600403 0.578049 0.595492 0.66144 0.755163 0.848885 0.913058 0.930899 0.926095 0.911502 0.884343 0.862728 0.869275 0.900465 0.899468 0.860285 0.820114 0.792174 0.771026 0.736085 0.692958 0.66441 0.668485 0.709466 0.77448 0.855052 0.941661 1.032638 1.123745 1.226508</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement193" Id="c193">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.645655 0.587098 0.832098 1.243662 1.470911 1.522198 1.511835 1.492559 1.497514 1.531994 1.578869 1.62001 1.640914 1.640339 1.638659 1.638205 1.638055 1.646172 1.672229 1.724197 1.761921 1.788482 1.812924 1.827333 1.837317 1.838713 1.841575 1.843724 1.846293 1.8498 1.84639 1.852579 1.862855 1.867947 1.879211 1.881011</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement194" Id="c194">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">-0.072599 0.024198 0.034393 0.035564 0.031204 0.023931 0.017703 0.013415 0.012572 0.015282 0.019917 0.023907 0.02366 0.019519 0.01617 0.014659 0.013278 0.013924 0.020824 0.039572 0.065953 0.089205 0.108686 0.124261 0.129704 0.121944 0.105852 0.09239 0.089809 0.102246 0.129926 0.171329 0.224086 0.291616 0.367004 0.469749</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement195" Id="c195">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.433137 0.159966 0.098216 0.074542 0.054492 0.040793 0.031052 0.025791 0.029046 0.044278 0.077289 0.129123 0.191232 0.241771 0.277085 0.302537 0.317172 0.338734 0.403568 0.537383 0.703764 0.873259 1.052286 1.214258 1.311264 1.337717 1.325927 1.307753 1.308823 1.337924 1.381491 1.439092 1.4993 1.555241 1.608995 1.658277</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement196" Id="c196">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.494 0.382392 0.491784 0.656656 0.736185 0.729266 0.672356 0.579057 0.47826 0.38537 0.30143 0.23142 0.169904 0.121864 0.097752 0.088327 0.082634 0.086648 0.117238 0.189298 0.284472 0.380113 0.478523 0.56444 0.607893 0.603253 0.57212 0.545147 0.545332 0.580676 0.641509 0.720579 0.808016 0.902781 0.997799 1.107601</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement197" Id="c197">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.481676 0.265573 0.272646 0.298884 0.297823 0.282288 0.264292 0.254953 0.278625 0.350128 0.469769 0.627553 0.803178 0.94974 1.031282 1.040328 0.988167 0.899646 0.805927 0.722479 0.627082 0.526617 0.45003 0.404279 0.377367 0.347117 0.312354 0.288873 0.28999 0.319685 0.371881 0.439599 0.517021 0.604738 0.696762 0.810915</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement198" Id="c198">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.71844 0.62734 0.907707 1.39499 1.69167 1.78396 1.800688 1.792536 1.774313 1.754683 1.73388 1.709678 1.673132 1.629221 1.601098 1.586805 1.577542 1.580895 1.60886 1.668685 1.712466 1.741006 1.765602 1.780015 1.788327 1.785878 1.783141 1.781453 1.784205 1.792434 1.795527 1.808505 1.825104 1.835346 1.850944 1.856756</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement199" Id="c199">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.450116 0.197043 0.207028 0.249115 0.273603 0.287813 0.296674 0.302191 0.322975 0.369072 0.42877 0.478783 0.494872 0.468467 0.425331 0.379179 0.327815 0.28052 0.247906 0.224927 0.189218 0.143344 0.108032 0.088317 0.07751 0.066428 0.053978 0.045788 0.045647 0.055135 0.074926 0.104603 0.144679 0.197996 0.259625 0.348653</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement200" Id="c200">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.427792 0.448212 0.601077 0.826137 0.94205 0.969447 0.970709 0.974444 1.013898 1.103525 1.224408 1.347223 1.443248 1.488936 1.490849 1.45633 1.389924 1.302871 1.213984 1.136752 1.041613 0.937556 0.856893 0.807611 0.777104 0.738292 0.69436 0.666677 0.672087 0.71397 0.77901 0.858723 0.943539 1.032711 1.122091 1.22357</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement201" Id="c201">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.474778 0.390405 0.530276 0.682972 0.710848 0.660546 0.579249 0.492415 0.425699 0.376481 0.328453 0.279913 0.227125 0.178984 0.154031 0.146389 0.142415 0.151477 0.200142 0.315152 0.482213 0.694526 0.983539 1.316347 1.575796 1.721332 1.79397 1.826552 1.843422 1.85305 1.850778 1.856574 1.866502 1.870639 1.880942 1.879339</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement202" Id="c202">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.562221 0.543887 0.70623 1.007525 1.208161 1.303356 1.36529 1.414762 1.461805 1.519292 1.577428 1.618843 1.625442 1.592567 1.540666 1.47399 1.387753 1.288636 1.192532 1.110855 1.012903 0.907534 0.827116 0.778127 0.74793 0.709757 0.665901 0.63837 0.644054 0.686088 0.750921 0.830168 0.914876 1.004081 1.093961 1.197149</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement203" Id="c203">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.67354 0.24823 0.266391 0.299803 0.30034 0.286815 0.268034 0.25647 0.275695 0.337839 0.437636 0.558169 0.671395 0.741452 0.764948 0.752514 0.711055 0.659571 0.619242 0.589932 0.536819 0.463353 0.402282 0.364454 0.341321 0.313209 0.280272 0.258003 0.258743 0.286452 0.336257 0.402 0.477408 0.564059 0.655107 0.769767</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement204" Id="c204">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.459094 0.208267 0.207915 0.22773 0.222911 0.212678 0.199748 0.193823 0.214149 0.277434 0.385907 0.530797 0.691729 0.821935 0.885976 0.878865 0.813632 0.717457 0.621667 0.539173 0.449644 0.358357 0.290658 0.251172 0.228969 0.205266 0.178762 0.160787 0.160783 0.182264 0.222762 0.277755 0.34338 0.421833 0.506135 0.615964</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement205" Id="c205">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.298788 0.148251 0.15567 0.162364 0.158034 0.146612 0.132147 0.11978 0.123009 0.146002 0.180381 0.211245 0.222757 0.209986 0.191886 0.176155 0.159631 0.150799 0.160951 0.187136 0.198818 0.185119 0.165846 0.15232 0.142381 0.127351 0.108297 0.094546 0.093496 0.108274 0.137992 0.181006 0.235559 0.303764 0.379634 0.483019</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement206" Id="c206">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.442193 0.184169 0.156114 0.137789 0.121388 0.107222 0.093956 0.087692 0.099915 0.143183 0.226932 0.354645 0.520251 0.685803 0.803853 0.848233 0.820743 0.74637 0.660435 0.581449 0.49195 0.398298 0.327329 0.285347 0.261334 0.235758 0.206833 0.187234 0.186334 0.20904 0.251675 0.309914 0.378367 0.460103 0.547015 0.659584</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement207" Id="c207">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.258155 0.187314 0.20061 0.227857 0.223421 0.207489 0.187904 0.173153 0.180673 0.218454 0.276734 0.338427 0.380107 0.38761 0.378187 0.363259 0.342176 0.3282 0.338439 0.368136 0.37581 0.350568 0.320504 0.29957 0.284088 0.26065 0.231305 0.210618 0.20989 0.233942 0.278858 0.339353 0.410799 0.494657 0.583536 0.697335</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement208" Id="c208">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.055645 0.034792 0.036426 0.028497 0.024923 0.02172 0.017174 0.013574 0.015252 0.024187 0.043553 0.072391 0.101324 0.116679 0.119456 0.116093 0.107762 0.102543 0.110672 0.130858 0.140303 0.128919 0.11228 0.100635 0.09239 0.081212 0.06701 0.056807 0.055138 0.064674 0.085886 0.11868 0.162268 0.219655 0.286481 0.380835</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement209" Id="c209">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.390186 0.245999 0.239158 0.268492 0.279173 0.280181 0.277459 0.278193 0.305563 0.377152 0.490644 0.628298 0.76029 0.839919 0.850545 0.803701 0.71522 0.609594 0.512686 0.432489 0.348982 0.266746 0.207425 0.174272 0.156351 0.137844 0.117257 0.103767 0.103877 0.120537 0.152849 0.197805 0.253512 0.322406 0.39864 0.501772</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement210" Id="c210">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.522619 0.273269 0.277143 0.307465 0.310384 0.29867 0.282494 0.274359 0.298403 0.371054 0.491709 0.647561 0.816061 0.950027 1.017052 1.013935 0.952477 0.858309 0.762031 0.677756 0.583041 0.484134 0.409308 0.364863 0.339166 0.310391 0.27772 0.255728 0.256706 0.284353 0.334025 0.399121 0.473785 0.560114 0.650447 0.763869</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement211" Id="c211">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.442176 0.495443 0.664863 0.945087 1.086044 1.120847 1.118744 1.113398 1.136995 1.199622 1.280538 1.351958 1.391351 1.389321 1.370023 1.340264 1.297784 1.253554 1.223495 1.209742 1.166676 1.098489 1.039983 1.002037 0.976802 0.939573 0.896157 0.868589 0.875083 0.918459 0.982613 1.060061 1.14102 1.222797 1.302529 1.388596</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement212" Id="c212">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.160039 0.077998 0.066833 0.046889 0.038796 0.030511 0.024827 0.022044 0.026345 0.045045 0.089866 0.175338 0.309346 0.468814 0.608 0.69112 0.708175 0.675038 0.622889 0.568807 0.495222 0.409101 0.340121 0.297936 0.273431 0.247385 0.217645 0.196617 0.194704 0.216682 0.259684 0.318524 0.388462 0.471294 0.559201 0.671439</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement213" Id="c213">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.465876 0.362826 0.447359 0.614647 0.756018 0.850194 0.913222 0.907261 0.818865 0.690582 0.561511 0.451213 0.353051 0.271993 0.223263 0.195779 0.175378 0.168358 0.187003 0.228147 0.256055 0.254436 0.2437 0.235151 0.226239 0.207715 0.182816 0.165238 0.165201 0.18668 0.227446 0.282512 0.348194 0.426889 0.511219 0.621192</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement214" Id="c214">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.462993 0.343882 0.385654 0.46362 0.504841 0.509927 0.506436 0.508081 0.544159 0.632646 0.764198 0.913157 1.046731 1.12262 1.133207 1.088832 1.001883 0.893631 0.790573 0.70312 0.606078 0.505917 0.43079 0.386561 0.36074 0.331261 0.297537 0.275333 0.277354 0.307057 0.359006 0.425732 0.501744 0.588768 0.679348 0.792618</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement215" Id="c215">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.223739 0.244776 0.318475 0.373881 0.363129 0.330526 0.296567 0.277963 0.299693 0.374221 0.499925 0.66808 0.864413 1.051992 1.203391 1.309962 1.380583 1.436662 1.503968 1.597991 1.674106 1.730468 1.778868 1.811012 1.83067 1.836007 1.839863 1.841748 1.843246 1.847046 1.842693 1.847478 1.858272 1.86259 1.873368 1.872097</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement216" Id="c216">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.09494 0.079737 0.093493 0.105319 0.09834 0.08445 0.0679 0.055766 0.054604 0.065943 0.083463 0.098703 0.101847 0.09218 0.082847 0.077557 0.072565 0.074004 0.094244 0.14052 0.191305 0.224806 0.24689 0.261888 0.264625 0.249516 0.22306 0.202051 0.199393 0.220827 0.263402 0.322944 0.394051 0.478064 0.567202 0.681821</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement217" Id="c217">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.363403 0.247281 0.310389 0.405962 0.489167 0.555401 0.617908 0.661929 0.680026 0.679061 0.656905 0.612104 0.541489 0.458621 0.391224 0.339724 0.292547 0.254791 0.235083 0.225472 0.200174 0.159221 0.12549 0.106011 0.094834 0.082393 0.068179 0.058766 0.058754 0.070383 0.093306 0.127044 0.171244 0.228925 0.29494 0.38846</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement218" Id="c218">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.368589 0.245399 0.261722 0.296013 0.301222 0.290572 0.271755 0.255685 0.262255 0.29818 0.348502 0.392936 0.41041 0.395055 0.371242 0.349009 0.324181 0.308929 0.319007 0.348411 0.356072 0.331385 0.302267 0.282273 0.26732 0.24496 0.21668 0.196848 0.196605 0.220222 0.264159 0.323555 0.393274 0.475654 0.562878 0.675101</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement219" Id="c219">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.549912 0.588694 0.904654 1.405032 1.721987 1.82428 1.851724 1.858029 1.853794 1.848853 1.844628 1.837589 1.821002 1.797584 1.783887 1.774704 1.767902 1.764196 1.765025 1.782759 1.786885 1.784014 1.782666 1.77902 1.779371 1.773409 1.768524 1.76579 1.767938 1.776942 1.781547 1.795002 1.812961 1.824575 1.841818 1.847926</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement220" Id="c220">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.506004 0.517003 0.753832 1.130336 1.350908 1.388071 1.330675 1.20606 1.046831 0.888097 0.745364 0.628337 0.523165 0.435147 0.38737 0.367819 0.35614 0.366421 0.431199 0.566776 0.723903 0.874266 1.028912 1.160295 1.230588 1.238176 1.21526 1.194518 1.199056 1.235447 1.287498 1.351607 1.417881 1.480452 1.541236 1.598506</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement221" Id="c221">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.33535 0.517122 0.765764 1.117853 1.308239 1.343863 1.327134 1.301875 1.29721 1.318321 1.345415 1.36003 1.346711 1.307206 1.276051 1.256452 1.237065 1.23208 1.264093 1.334941 1.381483 1.394283 1.399098 1.399571 1.395108 1.371541 1.340401 1.320537 1.326554 1.361593 1.407591 1.463943 1.52138 1.573018 1.624387 1.670131</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement222" Id="c222">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.629296 0.413393 0.500159 0.675965 0.829385 0.949471 1.057555 1.113169 1.077082 0.97627 0.852999 0.734568 0.618205 0.513396 0.442708 0.39618 0.356822 0.332104 0.33408 0.353405 0.34961 0.316015 0.281855 0.259735 0.244639 0.222859 0.196102 0.178351 0.179062 0.202336 0.245207 0.302053 0.369179 0.449287 0.53481 0.645698</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement223" Id="c223">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.437089 0.588183 0.908282 1.405901 1.724124 1.827668 1.857245 1.866576 1.867653 1.870705 1.876161 1.880125 1.876132 1.864947 1.859634 1.856685 1.853628 1.847158 1.836514 1.839169 1.831331 1.820536 1.813315 1.805385 1.80463 1.799313 1.795878 1.794722 1.797064 1.804624 1.806548 1.817862 1.833928 1.843381 1.859153 1.864142</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement224" Id="c224">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.540891 0.594896 0.88122 1.353056 1.646181 1.722827 1.709519 1.652383 1.569383 1.476487 1.380572 1.291503 1.197302 1.105581 1.051894 1.030355 1.018467 1.032732 1.10777 1.254379 1.402853 1.533395 1.65862 1.753016 1.805853 1.82395 1.831747 1.835199 1.83731 1.84187 1.839307 1.846044 1.858915 1.865299 1.878552 1.880144</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement225" Id="c225">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.226401 0.077903 0.06793 0.057162 0.041143 0.028481 0.019696 0.014181 0.01364 0.017375 0.024398 0.031701 0.034787 0.032355 0.030222 0.030517 0.03081 0.034539 0.053878 0.11035 0.214427 0.375113 0.628772 0.976121 1.300089 1.511008 1.618274 1.662949 1.687895 1.708927 1.724505 1.748173 1.774911 1.79495 1.817266 1.830674</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement226" Id="c226">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.050551 0.132064 0.146384 0.146728 0.132149 0.112162 0.0942 0.085888 0.098535 0.143378 0.231135 0.370286 0.566769 0.799209 1.024547 1.209324 1.347632 1.451871 1.54172 1.636953 1.704844 1.750547 1.785778 1.807376 1.821732 1.825186 1.82821 1.829954 1.832339 1.836567 1.833931 1.840854 1.852751 1.858814 1.869933 1.871641</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement227" Id="c227">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.377042 0.199935 0.163528 0.15233 0.124221 0.098139 0.074981 0.059158 0.057542 0.068807 0.087834 0.10524 0.111356 0.104252 0.09888 0.099122 0.099166 0.107212 0.14575 0.241612 0.389126 0.58304 0.85101 1.16947 1.425349 1.566907 1.628042 1.649433 1.663856 1.682967 1.699284 1.725082 1.754049 1.776836 1.801215 1.81653</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement228" Id="c228">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.423706 0.546156 0.756428 1.091096 1.277086 1.322263 1.32232 1.317533 1.339207 1.395768 1.46891 1.534824 1.57351 1.57904 1.57013 1.550443 1.519172 1.48461 1.4574 1.444397 1.406491 1.348733 1.299564 1.266541 1.24494 1.211537 1.173122 1.149025 1.155609 1.194927 1.249941 1.316466 1.384555 1.448684 1.510475 1.5705</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement229" Id="c229">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.313148 0.153468 0.143549 0.134379 0.123708 0.108701 0.095041 0.088019 0.100641 0.144833 0.229729 0.359646 0.530433 0.705619 0.835831 0.891765 0.87366 0.805263 0.722089 0.644066 0.553079 0.456379 0.382185 0.337549 0.311693 0.283776 0.252236 0.230285 0.229915 0.255008 0.301913 0.364484 0.437425 0.522506 0.611559 0.724507</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement230" Id="c230">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.487316 0.420181 0.539504 0.677624 0.706255 0.662193 0.595458 0.531526 0.497516 0.488197 0.480406 0.46197 0.422561 0.37283 0.343464 0.333948 0.328648 0.343004 0.412459 0.562074 0.754151 0.972102 1.236755 1.503623 1.687197 1.778835 1.822778 1.842116 1.852396 1.857877 1.853623 1.858104 1.867189 1.870464 1.878739 1.875223</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement231" Id="c231">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.07194 0.018442 0.016964 0.018823 0.016245 0.013834 0.011309 0.009804 0.011193 0.018447 0.035709 0.065965 0.102552 0.127742 0.135782 0.131661 0.118252 0.104628 0.099588 0.100438 0.091082 0.069942 0.051516 0.040784 0.034795 0.028805 0.022299 0.01798 0.017357 0.021358 0.030852 0.047145 0.071797 0.108046 0.153713 0.22455</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement232" Id="c232">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.359173 0.550007 0.814838 1.20157 1.417548 1.463139 1.456525 1.447436 1.468071 1.526362 1.605075 1.682917 1.742422 1.775448 1.793089 1.797423 1.79086 1.774587 1.751108 1.738429 1.709955 1.673916 1.643942 1.621767 1.609623 1.590484 1.570449 1.558058 1.562916 1.586341 1.613076 1.64868 1.686084 1.71671 1.748031 1.772374</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement233" Id="c233">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.225165 0.089769 0.085229 0.068349 0.051236 0.041186 0.032944 0.029516 0.034892 0.058636 0.113397 0.214126 0.373312 0.573443 0.7674 0.908818 0.976146 0.973854 0.930746 0.873294 0.787429 0.68547 0.602495 0.549797 0.518111 0.4826 0.442043 0.413282 0.411584 0.443126 0.500001 0.57476 0.659147 0.752625 0.847751 0.961798</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement234" Id="c234">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.515916 0.593239 0.867704 1.320185 1.593845 1.649134 1.608977 1.513704 1.390411 1.25899 1.131623 1.020928 0.91266 0.814486 0.759001 0.737054 0.724896 0.740654 0.822285 0.98574 1.166702 1.34126 1.521856 1.671782 1.758136 1.791584 1.804706 1.809345 1.813333 1.819321 1.818728 1.827493 1.84111 1.84866 1.860505 1.862307</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement235" Id="c235">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.371066 0.290914 0.357733 0.43953 0.455327 0.43908 0.411782 0.391162 0.404229 0.459574 0.541 0.622939 0.677318 0.688571 0.679955 0.664324 0.639637 0.622743 0.635639 0.673896 0.682725 0.652372 0.617612 0.593079 0.574017 0.542421 0.502603 0.47534 0.477347 0.513485 0.57447 0.651462 0.736647 0.829532 0.92312 1.033192</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement236" Id="c236">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.068644 0.06951 0.099407 0.134176 0.139196 0.132314 0.118263 0.102395 0.096312 0.101563 0.108142 0.106785 0.093242 0.073017 0.058613 0.050456 0.044062 0.04287 0.053368 0.077777 0.099873 0.106222 0.10514 0.103243 0.09945 0.08915 0.074757 0.064082 0.062662 0.073261 0.096352 0.13135 0.177503 0.237909 0.306707 0.402895</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement237" Id="c237">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.218567 0.09698 0.078417 0.066351 0.052781 0.041641 0.033503 0.02885 0.033058 0.052111 0.092888 0.157936 0.237799 0.305887 0.348314 0.366347 0.363449 0.356818 0.367997 0.396289 0.401408 0.372488 0.337984 0.313413 0.295968 0.27156 0.241273 0.219051 0.216947 0.23999 0.284803 0.346015 0.418473 0.504126 0.594053 0.708061</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement238" Id="c238">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.184066 0.088144 0.068121 0.055746 0.042686 0.035545 0.029682 0.027076 0.032533 0.054675 0.10535 0.196171 0.328726 0.471835 0.576774 0.614617 0.585579 0.513918 0.434126 0.362672 0.286907 0.212069 0.158074 0.127864 0.111802 0.096524 0.079777 0.068581 0.067533 0.079487 0.104195 0.140686 0.188203 0.249613 0.319586 0.417039</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement239" Id="c239">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.48334 0.303067 0.340104 0.476195 0.601221 0.71716 0.837726 0.916293 0.899956 0.807766 0.68868 0.574933 0.464884 0.367678 0.301115 0.257158 0.220572 0.195558 0.189354 0.194115 0.182377 0.15166 0.12354 0.106652 0.096511 0.084327 0.069991 0.060623 0.06069 0.072074 0.095445 0.129832 0.174681 0.232813 0.299347 0.393467</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement240" Id="c240">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.159957 0.120342 0.112873 0.111373 0.097012 0.084028 0.070932 0.062307 0.068862 0.096773 0.149496 0.221915 0.298085 0.351341 0.377236 0.383643 0.373536 0.363725 0.374401 0.403648 0.410059 0.382431 0.349169 0.325685 0.308866 0.284684 0.254068 0.232066 0.23012 0.254056 0.299894 0.362136 0.435668 0.521524 0.611849 0.726237</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement241" Id="c241">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.397727 0.392812 0.502104 0.645903 0.697494 0.689241 0.664481 0.649834 0.682218 0.776171 0.91832 1.083723 1.244454 1.36443 1.430785 1.445027 1.41584 1.357559 1.290008 1.228724 1.144727 1.047291 0.969543 0.920523 0.890525 0.851782 0.807696 0.779309 0.784613 0.827176 0.892396 0.971596 1.055887 1.142931 1.22883 1.321808</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement242" Id="c242">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.186128 0.160906 0.198291 0.275952 0.356782 0.424791 0.480428 0.490164 0.438568 0.354488 0.266982 0.193064 0.130611 0.084243 0.058465 0.045354 0.036287 0.03244 0.036758 0.047942 0.053748 0.048645 0.04108 0.036105 0.032443 0.027424 0.021587 0.017577 0.017175 0.021534 0.031214 0.047762 0.072023 0.107695 0.153137 0.224196</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement243" Id="c243">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.568043 0.546043 0.724101 1.068997 1.313675 1.452961 1.558553 1.63413 1.659096 1.641735 1.598683 1.540872 1.460634 1.365743 1.286665 1.219451 1.149006 1.083606 1.036891 1.007185 0.949565 0.869373 0.802755 0.760796 0.73382 0.696978 0.654442 0.627418 0.633055 0.674608 0.739472 0.818606 0.903628 0.993844 1.083945 1.186719</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement244" Id="c244">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.461973 0.360924 0.43593 0.604947 0.750351 0.858782 0.946609 0.971842 0.907402 0.78894 0.660579 0.546165 0.440027 0.349067 0.29127 0.25617 0.228689 0.215098 0.226808 0.257108 0.269401 0.252461 0.230337 0.21531 0.203642 0.185128 0.161831 0.145548 0.145628 0.165743 0.203973 0.2563 0.319316 0.394916 0.477086 0.584634</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement245" Id="c245">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">-0.119156 0.009312 0.022202 0.030823 0.032502 0.029566 0.024791 0.020869 0.021612 0.028502 0.039743 0.050243 0.053223 0.046926 0.039184 0.03331 0.027961 0.02535 0.028869 0.037997 0.043062 0.038894 0.032401 0.027883 0.024666 0.020488 0.015706 0.012523 0.01203 0.014855 0.022051 0.034602 0.054389 0.084691 0.124771 0.189655</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement246" Id="c246">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.232424 0.19873 0.263238 0.373928 0.482 0.570966 0.647565 0.667352 0.604696 0.495443 0.38262 0.287949 0.207026 0.144167 0.107301 0.087124 0.072803 0.066237 0.072748 0.089458 0.097337 0.088963 0.077302 0.069451 0.063706 0.055397 0.045163 0.038127 0.037712 0.045457 0.062355 0.088624 0.124362 0.173293 0.231522 0.31712</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement247" Id="c247">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.35226 0.446519 0.626307 0.898861 1.079593 1.174576 1.248336 1.310356 1.368941 1.434968 1.50001 1.545503 1.55022 1.507728 1.441444 1.358382 1.255442 1.142307 1.036923 0.948572 0.847177 0.740387 0.659378 0.610824 0.581666 0.545925 0.505253 0.479419 0.484017 0.522655 0.584754 0.661225 0.745323 0.837119 0.929081 1.038547</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement248" Id="c248">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.284536 0.131689 0.113044 0.10289 0.081907 0.064782 0.05149 0.045231 0.051646 0.078688 0.134782 0.224813 0.343331 0.46222 0.560616 0.633923 0.682443 0.729893 0.82159 0.986149 1.170554 1.34751 1.52578 1.677387 1.771224 1.813216 1.833122 1.841287 1.845772 1.85027 1.846622 1.851834 1.86306 1.868064 1.879244 1.878816</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement249" Id="c249">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.45479 0.587668 0.905459 1.412289 1.725578 1.823379 1.848289 1.851699 1.849243 1.850324 1.854169 1.856543 1.84912 1.833562 1.824749 1.819133 1.815522 1.814016 1.814842 1.831683 1.837461 1.838675 1.840816 1.838775 1.840947 1.83873 1.839577 1.840439 1.84218 1.846311 1.842692 1.847737 1.858933 1.863738 1.874728 1.875272</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement250" Id="c250">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.509615 0.583503 0.835528 1.254281 1.522141 1.617544 1.657673 1.681473 1.703625 1.733144 1.7645 1.788845 1.794243 1.779031 1.757869 1.730318 1.692005 1.64262 1.589101 1.546437 1.485167 1.413255 1.354865 1.315823 1.291839 1.258233 1.220699 1.197032 1.203187 1.24181 1.294593 1.357702 1.422679 1.484267 1.544168 1.6014</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement251" Id="c251">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.57784 0.363609 0.425304 0.57899 0.721371 0.849215 0.984532 1.082848 1.086688 1.008126 0.893537 0.776185 0.655752 0.543557 0.463589 0.407081 0.357339 0.319651 0.30325 0.299163 0.275084 0.230361 0.191436 0.168105 0.154049 0.136969 0.117 0.10383 0.10434 0.121101 0.153522 0.1986 0.254333 0.323361 0.399622 0.502931</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement252" Id="c252">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.330544 0.396316 0.526349 0.700536 0.761441 0.751784 0.721608 0.69877 0.718571 0.789865 0.890435 0.991441 1.063282 1.089104 1.091148 1.081274 1.057635 1.037543 1.043924 1.075394 1.074828 1.037502 0.999191 0.971887 0.951332 0.915637 0.872308 0.843638 0.84833 0.890397 0.954576 1.032586 1.114812 1.199211 1.281602 1.369649</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement253" Id="c253">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.637087 0.349314 0.376905 0.489381 0.613465 0.736548 0.878985 0.994667 1.016994 0.949725 0.83993 0.724728 0.605679 0.494094 0.412935 0.354503 0.302672 0.261813 0.239412 0.227462 0.199636 0.15746 0.123205 0.10357 0.092553 0.080203 0.066285 0.057342 0.057576 0.06902 0.091804 0.125569 0.169395 0.226608 0.292502 0.385887</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement254" Id="c254">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.355168 0.353713 0.498641 0.692717 0.786809 0.7878 0.734895 0.639577 0.531634 0.43055 0.338915 0.262715 0.195188 0.142123 0.115161 0.104484 0.097809 0.101911 0.134847 0.21099 0.308018 0.400967 0.493193 0.571216 0.609448 0.602247 0.56969 0.5426 0.542704 0.578012 0.638976 0.717746 0.805435 0.900614 0.996478 1.10713</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement255" Id="c255">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.225022 0.294667 0.380906 0.463989 0.474439 0.447859 0.414587 0.395721 0.422736 0.509957 0.652567 0.837545 1.04687 1.241034 1.387093 1.472503 1.503909 1.49292 1.458242 1.421026 1.356253 1.274832 1.206733 1.16144 1.13359 1.096044 1.053268 1.02491 1.028881 1.069383 1.129114 1.202384 1.278969 1.354018 1.427583 1.501281</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement256" Id="c256">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.450108 0.45589 0.634171 0.927796 1.108572 1.157171 1.123924 1.013921 0.859931 0.704003 0.566018 0.455867 0.359807 0.282981 0.241285 0.223485 0.212011 0.217334 0.263365 0.361744 0.472747 0.566661 0.651758 0.718498 0.747563 0.734181 0.698551 0.670926 0.672707 0.711478 0.775362 0.855402 0.942842 1.035346 1.127177 1.229933</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement257" Id="c257">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.535309 0.339757 0.385006 0.526008 0.658897 0.777814 0.897486 0.972057 0.952757 0.859765 0.740222 0.625563 0.51352 0.413502 0.344829 0.299022 0.260638 0.234526 0.229108 0.23588 0.224315 0.191104 0.160116 0.141139 0.129397 0.114768 0.097453 0.085772 0.085894 0.100344 0.12892 0.169623 0.220746 0.2853 0.357685 0.456669</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement258" Id="c258">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.527042 0.423607 0.543324 0.770333 0.957496 1.096836 1.22808 1.32203 1.334287 1.274264 1.177646 1.070682 0.951106 0.831781 0.742482 0.67616 0.614403 0.564882 0.539735 0.530114 0.494833 0.4346 0.382446 0.350201 0.329778 0.303485 0.272281 0.251504 0.253646 0.282078 0.331642 0.396268 0.470086 0.555335 0.644445 0.757656</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement259" Id="c259">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.098489 0.117888 0.12578 0.161271 0.166556 0.158803 0.139616 0.115347 0.098273 0.088559 0.078253 0.063978 0.046381 0.030659 0.022485 0.018776 0.016408 0.016825 0.024236 0.043802 0.069161 0.08869 0.103339 0.114247 0.117301 0.10907 0.093914 0.081756 0.079925 0.09194 0.117754 0.15651 0.206645 0.271313 0.343591 0.44352</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement260" Id="c260">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.079211 0.059438 0.065867 0.073553 0.071612 0.064795 0.055829 0.048144 0.049506 0.06231 0.082523 0.101785 0.108939 0.100133 0.08811 0.078381 0.06901 0.064674 0.072379 0.090875 0.101822 0.095601 0.084458 0.076653 0.070525 0.061445 0.050256 0.042158 0.041092 0.048705 0.066293 0.094083 0.131949 0.183191 0.243906 0.331378</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement261" Id="c261">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.514964 0.600288 0.916551 1.413441 1.73639 1.837561 1.862415 1.865169 1.859276 1.853995 1.849425 1.843823 1.828194 1.805513 1.791644 1.783042 1.777509 1.777267 1.783713 1.808369 1.82075 1.827105 1.8342 1.836365 1.840632 1.839468 1.8409 1.84227 1.844558 1.848574 1.844831 1.850359 1.86119 1.865337 1.875736 1.875764</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement262" Id="c262">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.373101 0.424789 0.602254 0.813977 0.919808 0.937944 0.928514 0.91832 0.940148 1.003111 1.084562 1.156453 1.192143 1.183644 1.158519 1.126652 1.083548 1.042899 1.02356 1.023246 0.991422 0.929368 0.874205 0.838086 0.813382 0.776949 0.733787 0.705955 0.711056 0.752696 0.817738 0.89688 0.981135 1.06916 1.156234 1.253651</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement263" Id="c263">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.302646 0.398634 0.561038 0.731349 0.776772 0.742147 0.685038 0.636599 0.62853 0.659729 0.702962 0.735635 0.736994 0.708088 0.68691 0.681342 0.678296 0.698001 0.780341 0.94475 1.1309 1.315158 1.509682 1.676258 1.775949 1.818693 1.83842 1.846863 1.851541 1.855502 1.850714 1.855076 1.864919 1.868432 1.877658 1.875722</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement264" Id="c264">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.08239 0.042498 0.027048 0.028717 0.02566 0.021423 0.017317 0.015629 0.018618 0.032049 0.064885 0.125892 0.211978 0.294909 0.345821 0.357219 0.334046 0.293707 0.256296 0.225249 0.183446 0.134465 0.097532 0.07704 0.0662 0.055999 0.044924 0.037561 0.036617 0.043949 0.06037 0.086398 0.122243 0.171313 0.229875 0.315549</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement265" Id="c265">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.201146 0.079014 0.091324 0.095095 0.082806 0.072257 0.062262 0.057034 0.066229 0.101102 0.172225 0.286513 0.441756 0.6025 0.71956 0.764336 0.737478 0.663996 0.579428 0.502059 0.416522 0.328436 0.262257 0.223611 0.201958 0.179922 0.155348 0.138239 0.137241 0.156094 0.192603 0.243646 0.305857 0.381215 0.463109 0.571276</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement266" Id="c266">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.493358 0.354105 0.404264 0.521477 0.604195 0.647874 0.671747 0.673437 0.66385 0.651539 0.626846 0.585473 0.521332 0.447223 0.391644 0.353253 0.319619 0.29923 0.304607 0.327655 0.32871 0.299877 0.268945 0.248454 0.23414 0.213247 0.187348 0.16961 0.16993 0.192259 0.233707 0.289673 0.355999 0.434996 0.519833 0.630344</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement267" Id="c267">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.41967 0.273023 0.31432 0.351404 0.348937 0.323947 0.294519 0.275923 0.292332 0.35416 0.454087 0.57428 0.68825 0.763462 0.801964 0.814195 0.803901 0.792013 0.804438 0.840257 0.844461 0.809035 0.769999 0.74238 0.72136 0.68705 0.64449 0.615334 0.617417 0.655639 0.718917 0.798406 0.884439 0.976105 1.067824 1.172288</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement268" Id="c268">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.153016 0.077192 0.066467 0.062647 0.054947 0.047601 0.040838 0.037493 0.044412 0.071181 0.12964 0.229493 0.370627 0.52058 0.629935 0.67028 0.641798 0.568885 0.486674 0.412648 0.332827 0.252546 0.193676 0.160104 0.141996 0.124307 0.104909 0.091421 0.0903 0.104337 0.133334 0.175194 0.228294 0.295224 0.369883 0.472143</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement269" Id="c269">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.492492 0.540641 0.798389 1.16169 1.359934 1.399765 1.387907 1.370951 1.379296 1.420654 1.474579 1.520536 1.539693 1.530154 1.517406 1.505792 1.4902 1.480697 1.49177 1.528548 1.54167 1.53091 1.51873 1.507821 1.499177 1.476333 1.449257 1.431781 1.437048 1.467236 1.504595 1.551955 1.600563 1.642689 1.685619 1.721231</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement270" Id="c270">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.509933 0.578102 0.879545 1.335367 1.613337 1.694418 1.707109 1.704903 1.709295 1.72897 1.754279 1.775138 1.779717 1.769076 1.760824 1.753831 1.745794 1.739349 1.737625 1.752424 1.751767 1.741752 1.733804 1.725903 1.722727 1.711883 1.700882 1.694056 1.696925 1.711596 1.72433 1.746508 1.772165 1.791107 1.814133 1.827551</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement271" Id="c271">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.369267 0.250244 0.281972 0.322247 0.323686 0.306672 0.282498 0.264386 0.273693 0.319129 0.387486 0.457566 0.503538 0.51095 0.50083 0.485632 0.46327 0.449069 0.463181 0.500614 0.512958 0.488172 0.457394 0.435506 0.418599 0.390852 0.355898 0.331203 0.331384 0.36179 0.415821 0.486404 0.566483 0.657013 0.750572 0.865609</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement272" Id="c272">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.374172 0.327501 0.365605 0.413016 0.414966 0.392437 0.363983 0.348118 0.373524 0.455625 0.590944 0.767313 0.965896 1.144587 1.269037 1.326991 1.324927 1.279621 1.216016 1.153664 1.067278 0.966817 0.886156 0.83523 0.804186 0.765415 0.720866 0.691703 0.694848 0.735348 0.799587 0.879776 0.966215 1.056515 1.146207 1.24695</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement273" Id="c273">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.309806 0.169282 0.140849 0.130933 0.113516 0.097937 0.084374 0.077096 0.088172 0.127661 0.204793 0.323829 0.479287 0.636657 0.754131 0.810287 0.806564 0.763779 0.711264 0.661557 0.590279 0.503926 0.433706 0.390004 0.364266 0.335964 0.303361 0.280327 0.279514 0.306079 0.355728 0.421861 0.498799 0.587901 0.680494 0.796275</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement274" Id="c274">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.378183 0.197232 0.179727 0.173099 0.152089 0.132351 0.114894 0.10659 0.120164 0.168155 0.259917 0.400405 0.588459 0.791728 0.960419 1.058978 1.081589 1.044349 0.978851 0.909322 0.817361 0.713552 0.630649 0.578821 0.548208 0.513598 0.474182 0.446659 0.446599 0.480011 0.538342 0.614445 0.69962 0.793921 0.889931 1.003609</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement275" Id="c275">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.367823 0.385503 0.469134 0.597628 0.641918 0.635334 0.61535 0.605236 0.638929 0.732112 0.873419 1.038174 1.197603 1.312132 1.368229 1.367485 1.319952 1.24195 1.156214 1.079143 0.983215 0.878326 0.796549 0.746167 0.715806 0.678585 0.636517 0.609292 0.613705 0.653857 0.717611 0.796778 0.882372 0.973516 1.064452 1.168439</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement276" Id="c276">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.439158 0.506325 0.686223 0.94985 1.07341 1.084785 1.061185 1.038922 1.053358 1.111482 1.189202 1.259678 1.298044 1.296015 1.283222 1.267553 1.2448 1.229199 1.240658 1.27975 1.289561 1.266223 1.240282 1.221157 1.205281 1.173906 1.135835 1.111011 1.117169 1.157194 1.213801 1.282202 1.352427 1.41996 1.48532 1.549506</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement277" Id="c277">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.434558 0.363563 0.440461 0.551658 0.602034 0.603732 0.590299 0.577807 0.594406 0.648712 0.720107 0.7816 0.806814 0.78848 0.756527 0.722355 0.681632 0.648543 0.640404 0.650547 0.631799 0.580811 0.532679 0.501036 0.47977 0.449806 0.413597 0.389141 0.391569 0.425435 0.482985 0.55634 0.638367 0.729613 0.822846 0.935712</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement278" Id="c278">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.172717 0.165737 0.224401 0.302823 0.358672 0.386001 0.391698 0.366921 0.321891 0.270386 0.216103 0.164601 0.116193 0.077932 0.056751 0.046177 0.039278 0.037808 0.047338 0.06904 0.088226 0.093396 0.091988 0.090093 0.086621 0.077786 0.065249 0.056172 0.055321 0.065027 0.086377 0.118645 0.161424 0.218275 0.283796 0.376549</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement279" Id="c279">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.20248 0.08508 0.06245 0.058219 0.043736 0.035699 0.030035 0.027412 0.032641 0.053852 0.103114 0.192997 0.327471 0.477363 0.593465 0.642844 0.623108 0.556617 0.47783 0.405291 0.326809 0.247788 0.189641 0.156306 0.138391 0.121363 0.10265 0.089761 0.088576 0.102192 0.130399 0.171392 0.223914 0.290449 0.364314 0.465399</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement280" Id="c280">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.38395 0.452898 0.624779 0.867353 0.979052 0.98719 0.962076 0.932807 0.929906 0.957644 0.991828 1.011214 0.996009 0.950258 0.911817 0.885507 0.860137 0.851751 0.884481 0.956205 1.001265 1.004306 0.996584 0.988771 0.977026 0.945558 0.904613 0.877613 0.883029 0.925097 0.988496 1.065729 1.146928 1.228722 1.308649 1.393619</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement281" Id="c281">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.351978 0.462469 0.710332 1.062623 1.224504 1.193085 1.064981 0.881921 0.694925 0.534051 0.403903 0.307059 0.228434 0.169716 0.141924 0.133632 0.129615 0.138046 0.184061 0.294223 0.457156 0.667305 0.955418 1.291026 1.556709 1.707816 1.783597 1.81804 1.836195 1.847362 1.846884 1.854236 1.865538 1.870657 1.881231 1.879875</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement282" Id="c282">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.310623 0.164435 0.136143 0.110457 0.085037 0.066803 0.052022 0.043898 0.048306 0.069976 0.111606 0.170944 0.234703 0.281075 0.311795 0.335484 0.349791 0.373062 0.443835 0.59176 0.784518 1.000562 1.254858 1.510357 1.689724 1.782218 1.827842 1.848387 1.858556 1.864896 1.861122 1.866244 1.875893 1.880149 1.890337 1.88906</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement283" Id="c283">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.43206 0.260342 0.315946 0.437688 0.554613 0.657865 0.758441 0.809116 0.767421 0.662828 0.542792 0.434938 0.336379 0.253648 0.200776 0.168462 0.143539 0.128981 0.130988 0.143746 0.142899 0.123637 0.103527 0.090921 0.082944 0.072948 0.060901 0.052779 0.052511 0.062223 0.082692 0.113449 0.154366 0.208265 0.271243 0.361252</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement284" Id="c284">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.559021 0.413748 0.47058 0.592594 0.645051 0.641457 0.617566 0.590518 0.586959 0.61154 0.641509 0.655645 0.637078 0.591722 0.553331 0.527004 0.502449 0.493667 0.521506 0.581931 0.618962 0.615256 0.600665 0.588692 0.575758 0.547049 0.509177 0.483002 0.48531 0.521322 0.582129 0.659332 0.7445 0.837585 0.931756 1.042423</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement285" Id="c285">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.043724 0.061256 0.060709 0.054134 0.043099 0.033762 0.027314 0.024481 0.029935 0.051363 0.101904 0.199325 0.362185 0.584287 0.82781 1.048575 1.223794 1.345821 1.423329 1.475254 1.479188 1.44634 1.405555 1.371536 1.349841 1.318864 1.282663 1.255824 1.25415 1.284327 1.331201 1.392978 1.458001 1.519339 1.57845 1.633516</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement286" Id="c286">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.393538 0.323281 0.391355 0.469204 0.495428 0.486418 0.464413 0.444958 0.453663 0.497631 0.557286 0.60784 0.62544 0.6055 0.577795 0.55242 0.524127 0.507054 0.520179 0.557181 0.567723 0.540818 0.508781 0.486188 0.468896 0.440674 0.404842 0.380266 0.381681 0.41463 0.471374 0.544582 0.627114 0.719304 0.813697 0.927721</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement287" Id="c287">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.434624 0.499278 0.68006 0.992088 1.225133 1.372299 1.504688 1.61534 1.673029 1.679741 1.652864 1.603425 1.524187 1.422557 1.328991 1.240815 1.145718 1.050418 0.969356 0.904066 0.819513 0.723293 0.648462 0.603039 0.57561 0.541332 0.502224 0.47764 0.482748 0.521251 0.583173 0.660012 0.744193 0.835902 0.929399 1.039437</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+			<cc:Object ObjectType="M2_Measurement" Name="M2_Measurement288" Id="c288">
+				<cc:CreationDate>2024-04-25T07:17:25Z</cc:CreationDate>
+				<cc:ColorValues>
+					<cc:ReflectanceSpectrum StartWL="380" ColorSpecification="M2_Measurement_spec">0.102318 0.110889 0.116191 0.118412 0.110918 0.100707 0.087461 0.077268 0.081821 0.106338 0.146886 0.192288 0.224867 0.231491 0.224023 0.212679 0.197281 0.188001 0.197581 0.222933 0.232627 0.215676 0.193011 0.177135 0.165996 0.150047 0.129656 0.114908 0.113378 0.129039 0.161118 0.207254 0.265085 0.336658 0.415846 0.521962</cc:ReflectanceSpectrum>
+				</cc:ColorValues>
+			</cc:Object>
+		</cc:ObjectCollection>
+		<cc:ColorSpecificationCollection>
+			<cc:ColorSpecification Id="M2_Measurement_spec">
+				<cc:MeasurementSpec>
+					<cc:MeasurementType>Spectrum_Reflectance</cc:MeasurementType>
+					<cc:GeometryChoice>
+						<cc:SingleAngle>
+							<cc:SingleAngleConfiguration>Uniplanar</cc:SingleAngleConfiguration>
+							<cc:IlluminationAngle>0.0</cc:IlluminationAngle>
+							<cc:MeasurementAngle>45</cc:MeasurementAngle>
+						</cc:SingleAngle>
+					</cc:GeometryChoice>
+					<cc:WavelengthRange StartWL="380" Increment="10"/>
+					<cc:CalibrationStandard>XRGA</cc:CalibrationStandard>
+					<cc:Device>
+						<cc:DeviceFilter>Filter_UVExcluded</cc:DeviceFilter>
+						<cc:DeviceIllumination>M2_UVExcluded</cc:DeviceIllumination>
+					</cc:Device>
+				</cc:MeasurementSpec>
+			</cc:ColorSpecification>
+		</cc:ColorSpecificationCollection>
+	</cc:Resources>
+	<cc:CustomResources>
+		<xrp:Prism xmlns:xrp="http://www.xrite.com/products/prism" release="2.0">
+  <xrp:CustomAttributes MeasurementDevice="i1iO" NumberPatchColumns="18" NumberPatchPages="1" NumberPatchRows="16"/>
+</xrp:Prism>
+
+	</cc:CustomResources>
+</cc:CxF>
